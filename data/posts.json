@@ -1,0 +1,200 @@
+{
+  "batchId": "2026-11-09",
+  "batchDate": "2026-11-09",
+  "posts": [
+    {
+      "id": "humor-01",
+      "category": "humor",
+      "rank": 1,
+      "title": "챗지피티한테 내 인생 책장 그려달라니까 인도 데이터분석가 인생 만들어놓고 '환각이었어요' 함",
+      "body": "미확인(업보트 수치 미확인). 레딧 썰인데 ㅋㅋ\n'나에 대해 아는 걸로 책장 그려줘' 했더니 인도계 데이터분석가 Kunal 자격증·가족사진·책으로 꽉 채움.\n지적하니까 '환각이었다 미안' 이러더라.\n제일 싼 개인사 도둑 아니냐 이거.\n출처 날짜 2026-11-08.",
+      "sourceUrls": [
+        "https://www.reddit.com/r/ChatGPT/comments/1xqxymd/chat_admitted_to_hallucinating_an_entirely/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "미확인",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "humor-02",
+      "category": "humor",
+      "rank": 2,
+      "title": "AI한테 빈 방 인테리어 맡겼더니 채팅 기록 다 들춰서 채워줌… 제일 싼 디자이너 실화",
+      "body": "미확인(참여·수치 미확인). X에서 도는 트렌드.\n빈 방 사진 + '나에 대해 아는 걸로 채워줘' → 과거 채팅 기반으로 방 꾸며줌.\n'제일 싼 인테리어 디자이너' 밈 됨 ㅋㅋ\n프라이버시 무섭다는 반응도 있음.\n출처 날짜 2026-11-08 전후.",
+      "sourceUrls": [
+        "https://x.com/theaigrandpa/status/2119470120183468188"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "미확인",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "humor-03",
+      "category": "humor",
+      "rank": 3,
+      "title": "중국에서 AI들 전부 미소녀로 만들고 있음 ㅋㅋ 딥시크는 흰쌀 먹는 고래 메이드래",
+      "body": "미확인(수치 미확인). 중국 인터넷 AI 미소녀화 밈.\nDeepSeek=흰쌀(토큰) 많이 먹는 고래 메이드, Claude=츤데레, GPT=드래곤 걸이라는데.\n팬아트·코스프레 쏟아진다고 함 ㅋㅋ\n특이점보다 먼저 미소녀화가 오나.\n출처 날짜 2026-11-07~08.",
+      "sourceUrls": [
+        "https://www.reddit.com/r/singularity/comments/1xqlkli/meanwhile_chinese_internet_turn_ai_into_cute/"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "미확인",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "humor-04",
+      "category": "humor",
+      "rank": 4,
+      "title": "제품 사진 흰 배경 편집 맡겼더니 라벨 용량이랑 성분 다 지어냄 ㅋㅋ 71장 중 10장",
+      "body": "미확인(저참여 게시). X 썰.\n흰 배경으로만 바꿔달라 했는데 작은 라벨 용량 40g→60g, 없는 성분까지 추가했다고.\n71장 중 10장이 라벨 환각이라네 ㅋㅋ\n제품 사진 맡길 때 라벨은 직접 검수 필수.\n출처 날짜 2026-11-09.",
+      "sourceUrls": [
+        "https://x.com/sysrootix/status/2119777364271853744"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "미확인",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "humor-05",
+      "category": "humor",
+      "rank": 5,
+      "title": "크리스마스 히트곡 가사 달라다가 오타 하나로 챗지피티 당황시킴 ㅋㅋ",
+      "body": "미확인(저참여·좋아요 1 언급). X 게시.\n'hit'을 'shit'으로 오타 낸 가사 요청이라는데.\n오타 하나로 모델이 멘붕한 썰 ㅋㅋ\n참여는 낮아서 크게 번진 건 아님.\n출처 날짜 2026-11-07.",
+      "sourceUrls": [
+        "https://x.com/dngeruswman/status/2119098938728853639"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "미확인",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "ai-01",
+      "category": "ai",
+      "rank": 1,
+      "title": "METR가 앤트로픽 내부 까보니 AI가 AI 만드는 속도 2배로 늘었다고 함 ㅋㅋ 병목 없다고",
+      "body": "확인됨. METR 독립 평가(2026-11-05).\n2026-10 기준 well-specified task 능력 향상 속도가 이전 대비 약 2배(1.3~3배), AECI 1.9배(95% CI 1.5~2.8).\n그중 ~80%가 AI 자체 활용 덕이고, 12개월 내 뚜렷한 병목 없다고.\n자기강화 루프 돌기 시작했다는 쪽 신호로 읽는 중. 특이점 게이지 크게 움직임.",
+      "sourceUrls": [
+        "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+        "https://www.reddit.com/r/singularity/comments/1xosbwp/"
+      ],
+      "sourceDate": "2026-11-05",
+      "status": "확인됨",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "ai-02",
+      "category": "ai",
+      "rank": 2,
+      "title": "오픈AI가 해킹용 모델 GPT-6 Cyber 내놓고 Critical 등급 줌… 파이어폭스 취약점 81개 찾았대",
+      "body": "확인됨(조사 측 Reuters·The Register 등 언급). 보안 연구용, 승인 고객 제한 공개.\nExploitGym 48.5%(이전 32.1%), Firefox 고위험 취약점 81개, Linux 커널 익스플로잇 948개라고.\nPreparedness Critical 등급이라는데… 도구가 세지면 방어 쪽도 같이 달려야 함.\n출처 날짜 2026-11-05.",
+      "sourceUrls": [
+        "https://www.reddit.com/r/singularity/comments/1xoo9ob/"
+      ],
+      "sourceDate": "2026-11-05",
+      "status": "확인됨",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "ai-03",
+      "category": "ai",
+      "rank": 3,
+      "title": "커서 CEO '코딩은 사라지고 취향만 남는다'… AI가 이미 내부 코드 절반 이상 짠다는데",
+      "body": "미확인(원문 링크 없음·인터뷰 인용 확산만). Cursor CEO Michael Truell 발언으로 퍼지는 중.\nAI가 이미 Cursor 내부 코드 절반 이상 작성한다고.\n'코딩은 사라지고 취향만 남는다'는 쪽 해석이 돌고 있음.\n원문 링크 확인 전이라 단정은 보류. 출처 날짜 2026-11-09 전후.",
+      "sourceUrls": [],
+      "sourceDate": "2026-11-09",
+      "status": "미확인",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "ai-04",
+      "category": "ai",
+      "rank": 4,
+      "title": "코어위브랑 웨이브가 자율주행 AI 학습 다년 계약함… 모델이 기존보다 나아야 도로 나감",
+      "body": "확인됨. CoreWeave–Wayve 자율주행 파운데이션 모델 학습 다년 계약 발표.\n컴퓨트 붙이고 모델 키우는 쪽 신호.\n도로 나가려면 기존보다 나아져야 한다는 전제 자체는 그대로.\n출처 날짜 2026-11-09.",
+      "sourceUrls": [
+        "https://x.com/CoreWeave/status/2119778801617965486"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "ai-05",
+      "category": "ai",
+      "rank": 5,
+      "title": "클로드 코드 복잡한 작업 대부분이 모델 탓 아니라 환경 드리프트 때문에 실패한다고",
+      "body": "미확인(링크 없음·'82%·14턴' 수치 미확인). 커뮤니티 논의로만 도는 중.\nClaude Code 실패 원인을 모델보다 환경 드리프트로 보는 쪽.\n숫자 인용은 확인 전이라 본문에만 표시하고 단정 안 함.\n에이전트 쓰려면 환경 고정이 먼저일 수도. 출처 날짜 2026-11-09 전후.",
+      "sourceUrls": [],
+      "sourceDate": "2026-11-09",
+      "status": "미확인",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "news-01",
+      "category": "news",
+      "rank": 1,
+      "title": "미국 데이터센터 규제 강화 우려… 한국 8.4GW 구축이 기회냐 부담이냐",
+      "body": "확인됨. 미 중간선거 후 데이터센터 규제 우려 vs 한국 기회론.\n한국이 인프라 강자로 반사이익 볼 수 있다는 쪽 / 전력·송전망·지역 수용성 부담이라는 쪽 둘 다 나옴.\n8.4GW 숫자가 포인트. 기회인지 숙제인지 아직 싸움 중.\n출처 날짜 2026-11-08~09.",
+      "sourceUrls": [
+        "https://www.g-enews.com/article/Global-Biz/2026/11/202611081008393306153ddfb15a_1",
+        "https://www.fnnews.com/news/202611091826067286"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "news-02",
+      "category": "news",
+      "rank": 2,
+      "title": "정부가 AI 가짜뉴스 규제 놓고 시민 100명 공론화 연다… 표현의 자유 어디까지?",
+      "body": "확인됨. 11/12 서울에서 시민 100명 공론화.\n찬: 시민 참여로 규칙 잡자 / 반: 풍자·창작 위축 우려.\n딥페이크·가짜뉴스 규제 수위가 쟁점.\n출처 날짜 2026-11-07.",
+      "sourceUrls": [
+        "https://en.sedaily.com/technology/2026/11/07/korea-to-gather-100-citizens-to-debate-ai-fake-news-rules"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "확인됨",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "news-03",
+      "category": "news",
+      "rank": 3,
+      "title": "AI 기본법·기존법 개정 우선한다는데… 중복 규제 막는 거냐, 느슨해지는 거냐",
+      "body": "확인됨. 대통령직속 AI전략위, 초지능 대비 등 TF 7개 + 입법 프레임워크.\n새 법 남발보다 기존법 개정 우선이라는 방향.\n중복 규제 방지로 읽는 쪽 / 규제가 느슨해진다고 읽는 쪽 둘 다 있음.\n출처 날짜 2026-11-06.",
+      "sourceUrls": [
+        "https://biz.chosun.com/en/en-it/2026/11/06/XFFZAE3ZQVHNBEY4AK35YO6BCM/",
+        "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=205400"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "news-04",
+      "category": "news",
+      "rank": 4,
+      "title": "AI 해고 냉각됐다는데 주니어 일자리부터 줄어든다는 현장 보고는 뭐임",
+      "body": "미확인(부분 확인). ETA 쪽 최신 인력 데이터 글.\n대규모 AI 해고는 둔화했다는 이야기와, 신입·주니어부터 줄어든다는 현장 보고가 같이 나옴.\n숫자·범위는 추가 확인 필요해서 단정 안 함.\n출처 날짜 2026-11-08~09.",
+      "sourceUrls": [
+        "https://joineta.org/blog/ai-jobs-and-skills-what-the-latest-data-shows"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "미확인",
+      "batchDate": "2026-11-09"
+    },
+    {
+      "id": "news-05",
+      "category": "news",
+      "rank": 5,
+      "title": "캘리포니아 'No Robo Bosses' 법, AI만으로 해고 못 하게 한다는데",
+      "body": "확인됨(조사 표기). 캘리포니아 SB 947, AI 단독 해고 금지 · 2027 시행 방향.\n사람 없이 AI만으로 해고 못 하게 막는 취지.\n링크는 403으로 본문 재확인은 못 함(서버는 응답). 조사본 기준으로 올림.\n출처 날짜 2026-11-05 전후.",
+      "sourceUrls": [
+        "https://www.lexology.com/library/detail.aspx?g=265e0285-0067-4472-9da6-53ea77289011"
+      ],
+      "sourceDate": "2026-11-05",
+      "status": "확인됨",
+      "batchDate": "2026-11-09"
+    }
+  ]
+}

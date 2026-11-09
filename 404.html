@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <title>특이점이 올까?</title>
+    <script>
+      // Project-site fallback. Hash routes normally stay on index.html.
+      // A missing path still returns this file; send the browser back to the
+      // repo root and keep any hash so the board can open the post.
+      var segments = location.pathname.split('/').filter(Boolean)
+      var root = segments.length ? '/' + segments[0] + '/' : '/'
+      var hash = location.hash && location.hash.length > 1 ? location.hash : '#/'
+      location.replace(root + hash)
+    </script>
+  </head>
+  <body></body>
+</html>
