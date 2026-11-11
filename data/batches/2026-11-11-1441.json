@@ -1,0 +1,205 @@
+{
+  "batchId": "2026-11-11-1441",
+  "batchDate": "2026-11-11",
+  "posts": [
+    {
+      "id": "humor-01",
+      "category": "humor",
+      "rank": 1,
+      "title": "'부모님이 딸 이름을 멕시코 과학자로 지었을 리는 없잖아' 헤드라인 저격 ㅋㅋ",
+      "body": "뉴스 헤드라인이 과학자 이름은 안 쓰고 'Mexican Scientist'로만 불렀다는 걸 비꼰 r/BrandNewSentence 글.\n'설마 부모님이 이름을 멕시코 과학자라고 지었겠냐' 한 줄로 끝냄 ㅋㅋ 댓글은 실명 좀 불러주라는 분위기.\n업보트는 Heavy 말로 약 6.1만(미검증, 페이지·제목만 확인).\n원문 날짜 2026-11-10경(KST, 레딧 표시 기준 대략).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/BrandNewSentence/comments/1xsnl9n/i_know_her_parents_didnt_name_her_mexican/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "humor-02",
+      "category": "humor",
+      "rank": 2,
+      "title": "'이 트럼프 클립 진짜 미치겠음 😭' 3초짜리 영상 조회 134만",
+      "body": "딱 3초짜리 트럼프 클립 하나 올리고 'this trump clip is frying me 😭' 한 줄.\nHeavy 설명으론 브리핑 중 고개 휙 돌리는 장면이라 리액션 템플릿으로 쓰인다 함 ㅋㅋ 북마크가 5,569개라 다들 짤 저장 중.\n좋아요 6,183, 조회 134만.\n원문 날짜 2026-11-10(KST).",
+      "sourceUrls": [
+        "https://x.com/ItsPzuh/status/2120044461447065802"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "ai-01",
+      "category": "ai",
+      "rank": 1,
+      "title": "엔비디아·젠슨 황, 주주 집단소송 당함… '중국 스파이 의혹 인물과의 관계 숨겼다'",
+      "body": "로이터 인용으로 엔비디아랑 젠슨 황이 집단소송(제기 단계) 당했다는 속보.\n주주 측 주장은 '스파이로 의심받는 인물과의 관계를 숨겨 투자자 기만'이라는 것. 어디까지나 소장 주장이고 법원 판단은 아직임.\n좋아요 1.5만, 조회 162만.\n원문 날짜 2026-11-10(KST).",
+      "sourceUrls": [
+        "https://x.com/unusual_whales/status/2119917990443733182"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "ai-02",
+      "category": "ai",
+      "rank": 2,
+      "title": "엔비디아, 젠슨 황 조사 맡길 사람으로 전직 뉴욕 남부지검장 대행 영입 (와크텔)",
+      "body": "엔비디아가 CEO 조사 이끌 사람으로 로펌 와크텔 소속 전직 미 연방검사(뉴욕 남부지검 대행 출신)를 데려왔다는 기사, r/biglaw에 올라옴.\n기사 부제는 '중국 스파이 의혹 인물과의 불륜' 조사용이라고 표현. 회사 내부 조사 단계라 결론은 아직 없음.\n레딧 업보트 수는 미확인.\n원문 날짜 2026-11-11경(KST, 레딧 표시 기준 대략).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/biglaw/comments/1xsw9x6/nvidia_hires_former_us_prosecutor_at_wachtell_to/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "ai-03",
+      "category": "ai",
+      "rank": 3,
+      "title": "오픈AI, 리눅스 취약점 찾고→익스플로잇→패치까지 AI 파이프라인으로 돌림… 실험비 120만 달러",
+      "body": "오픈AI가 리눅스 버그 찾기, 공격 검증, 패치 생성까지 AI로 자동화했다는 기사 r/technology에 뜸.\n최종 수정은 사람 연구자가 검토하고 메인테이너한테 넘겼다 함. 보안팀 일자리 걱정하는 댓글 각 ㅋㅋ\n레딧 반응 수는 미확인.\n원문 날짜 2026-11-10경(KST, 레딧 표시 기준 대략).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/technology/comments/1xs8evh/openai_built_an_ai_pipeline_to_find_exploit_and/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "ai-04",
+      "category": "ai",
+      "rank": 4,
+      "title": "머스크가 클로드 오퍼스 5.5보고 '걸작'이라 함 ㄷㄷ 그록 4.8은 못 따라간다고 인정",
+      "body": "코인텔레그래프 정리로는 머스크가 앤트로픽 클로드 오퍼스 5.5를 'masterpiece'라 부름.\n그록 4.8은 못 따라가지만 그록 5가 2~3개월 안에 넘을 거라고 했다는데, 경쟁사 칭찬하면서 자기 홍보도 잊지 않음 ㅋㅋ\n좋아요 1,249, 조회 6.2만.\n원문 날짜 2026-11-11(KST).",
+      "sourceUrls": [
+        "https://x.com/Cointelegraph/status/2120290620249944172"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "ai-05",
+      "category": "ai",
+      "rank": 5,
+      "title": "Grok Bot, 이제 Tailscale 사내망(tailnet)에 들어감… 사내 MCP 서버·내부 툴 접근",
+      "body": "Grok Bot 공식 계정이 개인·회사 Tailscale 네트워크에 붙을 수 있게 됐다고 발표.\n사설 MCP 서버랑 내부 도구, 사내 앱에 안전하게 접근 가능하다는 것. 답글 648개라 보안 걱정이랑 기대 반반 ㅋㅋ\n좋아요 4,531, 조회 25.8만.\n원문 날짜 2026-11-11(KST).",
+      "sourceUrls": [
+        "https://x.com/bot/status/2120279511707386263"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "ai-06",
+      "category": "ai",
+      "rank": 6,
+      "title": "커서 프로젝트 '멀티플레이어' 개편… 내 에이전트랑 팀원 에이전트가 같이 일함",
+      "body": "커서가 프로젝트 기능을 멀티플레이어로 다시 만들어서 팀원들이랑 각자 에이전트가 한 작업공간에서 같이 굴러간다고 발표(좋아요 2,356, 조회 26만).\n이걸 인용한 글은 'Grok Bot한테 말하면 프로젝트 만들고 관리도 해줌' 팁까지 얹음(좋아요 1,172).\n이제 에이전트끼리도 회의하는 시대 ㅋㅋ\n원문 날짜 2026-11-11(KST).",
+      "sourceUrls": [
+        "https://x.com/cursor_ai/status/2120295553309565139",
+        "https://x.com/poteto/status/2120313779691168082"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "ai-07",
+      "category": "ai",
+      "rank": 7,
+      "title": "'스타링크 소프트웨어가 초지능 학습에도 딱이다' 머스크 발언이라는 도지디자이너 속보",
+      "body": "도지디자이너 계정 말로는 머스크가 우주로 데이터 대량으로 쏘는 스타링크 소프트웨어가 초지능 학습에도 잘 맞는다고 했다 함.\n그록 더 센 버전 훈련에 쓸 수 있다는 해석인데, 팬 계정 요약이라 원 발언 맥락은 직접 보셈.\n좋아요 1,638, 조회 5만.\n원문 날짜 2026-11-10(KST).",
+      "sourceUrls": [
+        "https://x.com/cb_doge/status/2120104235950116975"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "news-01",
+      "category": "news",
+      "rank": 1,
+      "title": "버니 샌더스 '슈머 원내대표 연임 지지 안 함'… 민주당 이기자마자 집안싸움",
+      "body": "중간선거로 상원 되찾자마자 샌더스가 기자들한테 슈머의 차기 상원 민주당 대표 출마 지지 안 한다고 밝힘.\nX 뉴스 요약 기준 반 홀런 의원도 도전 검토 중이고, 펫터먼은 슈머 지지. 대표 선출 투표는 다음 달이라 함.\n레딧 업보트 수는 미확인.\n원문 날짜 2026-11-11경(KST, 레딧 표시 기준 대략).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/politics/comments/1xsu7uq/sanders_says_he_wont_support_schumer_for/",
+        "https://x.com/i/trending/2119805651207561223"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "news-02",
+      "category": "news",
+      "rank": 2,
+      "title": "헤그세스 탄핵안 하원서 211대204로 위원회 회부… 민주당 11명 불참이 갈랐다",
+      "body": "마시 탄핵안(이전 배치) 결과 나옴. X 뉴스 요약 기준 211대204로 법사위 회부, 사실상 보류.\n민주당 11명이 교통·보안 지연으로 표결 놓쳐서 당내 비판 나오는 중 ㅋㅋ 퀴글리 의원은 '내일일 수도, 1월일 수도 있지만 탄핵은 된다'(좋아요 5,676, 조회 29.8만).\n원문 날짜 2026-11-11(KST).",
+      "sourceUrls": [
+        "https://x.com/RepMikeQuigley/status/2120297417186644096",
+        "https://x.com/i/trending/2120350922756821436"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "news-03",
+      "category": "news",
+      "rank": 3,
+      "title": "헤그세스 '탄핵은 쇼 재판' → 슈머 '귀여운 떼쓰기네, 재판 세워서 펜타곤에서 쫓아냄'",
+      "body": "헤그세스가 6개월 만의 기자회견에서 탄핵 시도를 'show trial'이라 하고 이란 전쟁을 옹호했다는 워싱턴포스트 글이 돌자\n슈머가 인용해서 'Cute tantrum.' 한마디 박음 ㅋㅋ 답글 2,759개로 댓글창 전쟁터.\n슈머 글 좋아요 1,298, 조회 8.3만.\n원문 날짜 2026-11-11(KST).",
+      "sourceUrls": [
+        "https://x.com/SenSchumer/status/2120231705386823819",
+        "https://x.com/washingtonpost/status/2120181044091535510"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "news-04",
+      "category": "news",
+      "rank": 4,
+      "title": "선거 진 백악관 공식 계정 '패닉칸 금지. 애국자들이 아직 쥐고 있음 ㅇㅇ'",
+      "body": "중간선거 패배 후 백악관 공식 계정이 'No Panicans. Patriots are still in control btw.' 올림.\n공식 계정이 밈 말투로 지지자 달래기 ㅋㅋ 답글 6,276개, 리포스트 9,454개.\n좋아요 4.3만, 조회 156만.\n원문 날짜 2026-11-11(KST).",
+      "sourceUrls": [
+        "https://x.com/WhiteHouse/status/2120192282070540766"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "news-05",
+      "category": "news",
+      "rank": 5,
+      "title": "레이철 매도 '민주당은 ICE 조사, 헤그세스·블랜치 탄핵, 의료비 인하부터 해라'",
+      "body": "데일리쇼 나온 MSNBC 레이철 매도가 민주당한테 바라는 거 정리.\nICE 조사, 헤그세스·토드 블랜치 탄핵, 모두를 위한 의료비 인하 등. 선거 이기자마자 숙제 목록 날아옴 ㅋㅋ\n좋아요 1,545, 조회 8만.\n원문 날짜 2026-11-11(KST).",
+      "sourceUrls": [
+        "https://x.com/TheDailyShow/status/2120232592406352103"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    },
+    {
+      "id": "news-06",
+      "category": "news",
+      "rank": 6,
+      "title": "슈퍼맨 배우 딘 케인 '헤그세스 100% 지지, 피도 빨강·하양·파랑'",
+      "body": "탄핵 정국에 딘 케인이 '헤그세스랑 100% 함께한다, 그는 성조기 색 피가 흐름, 미국은 운 좋은 거'라고 올림.\n탄핵 찬반 양쪽 다 셀럽 동원 중 ㅋㅋ 답글 903개.\n좋아요 1.8만, 조회 8.6만.\n원문 날짜 2026-11-11(KST).",
+      "sourceUrls": [
+        "https://x.com/Deancain/status/2120234459832422889"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-11"
+    }
+  ]
+}
