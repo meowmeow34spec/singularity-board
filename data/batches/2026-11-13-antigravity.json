@@ -1,0 +1,2985 @@
+{
+  "batchId": "2026-11-13-antigravity",
+  "batchDate": "2026-11-13",
+  "posts": [
+    {
+      "id": "humor-01",
+      "category": "humor",
+      "rank": 1,
+      "title": "Jio AI 프로 18개월에 7.5달러 넣고 하이드로젠이 안 열려서 고소하겠다는 글",
+      "body": "우크라이나 흐리브나 300(약 7.5달러)짜리 Jio 프로모에 하이드로젠이 안 나온다는 하소연.\n과장 고소 드립이지만, ‘프로’라는 이름과 실제 권한이 다르다는 불만의 압축.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuknst/suing_google_for_false_advertising_i_invested_300/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-02",
+      "category": "humor",
+      "rank": 2,
+      "title": "GREETINGS PROFESSOR FALKEN. SHALL WE PLAY A GAME?",
+      "body": "전쟁게임 명대사를 제목으로 올린 글.\n새 모델이 떨어질 때마다 나오는, 좀 과한 환영식.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuc49n/greetings_professor_falken_shall_we_play_a_game/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-03",
+      "category": "humor",
+      "rank": 3,
+      "title": "카본은 좋은데 위험하니 책임감 있게 코드를 짜라는 경고 ㅋㅋ",
+      "body": "모델 칭찬과 안전 주의를 한 제목에 넣은 글.\n빠르고 잘 고치는 모델일수록 실수도 빨리 커진다는 말.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuisxi/carbon_is_good_but_dangerous_code_with/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-04",
+      "category": "humor",
+      "rank": 4,
+      "title": "카본이 팀워크가 너무 신나서 WHOA!!",
+      "body": "에이전트가 협업에 과몰입한 듯한 반응을 캡처한 글.\n/swarm 쓰다 보면 모델이 스스로 들뜬 로그를 남기기도 함.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xu9yh7/carbon_finds_teamwork_really_exciting_whoa/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-05",
+      "category": "humor",
+      "rank": 5,
+      "title": "구글이 내부 모델 제미니 PISSONIUM을 시험 중이라는 속보(?)",
+      "body": "제목부터 낚시. 원소 네이밍(아르곤·카본·하이드로젠)이 이어지니 나온 드립.\n실제 모델명으로 확인된 건 아님.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrs6zm/breaking_news_google_is_testing_a_new_internal/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-06",
+      "category": "humor",
+      "rank": 6,
+      "title": "채팅 도중 모델 핫스왑이 고등학교 교실 담임 같다",
+      "body": "모델을 중간에 바꾸면 클로드가 제미니 버그를 사과한다는 비유.\n역할이 다른 모델을 한 스레드에 섞으면 톤이 엇갈린다는 체감.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtbmp4/hotswapping_ai_models_midchat_feels_like_managing/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-07",
+      "category": "humor",
+      "rank": 7,
+      "title": "기침하는 아기가 이겼다",
+      "body": "작은 모델(하이드로젠)이 큰형보다 낫다는 반응을 한 줄로 줄인 제목.\n벤치 드립이랑 같이 돈 밈.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuiwup/coughing_baby_won/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-08",
+      "category": "humor",
+      "rank": 8,
+      "title": "모델 나올 때마다 1파 한도 하소연, 2파 두 번 만에 닳았다는 하소연",
+      "body": "프로·Jio 사용자 원성이 발표마다 같은 파도로 온다는 관찰 글.\n타임라인에 Jio를 숨기고 싶다는 글까지 나옴.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtl9zn/pro_and_jio_users_rant_subreddit_this_is_how_is/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xumd0t/is_there_a_way_to_band_the_word_jio_from_my/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-09",
+      "category": "humor",
+      "rank": 9,
+      "title": "UI가 너무 많으니 조금만 보여 달라는 하소연",
+      "body": "Wow, so much UI, please reveal less.\n에이전트 앱이 패널을 많이 띄우니, 정보량이 부담이라는 첫인상.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xoop50/wow_so_much_ui_please_reveal_less/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-10",
+      "category": "humor",
+      "rank": 10,
+      "title": "서브에이전트, lol",
+      "body": "짧은 제목 하나. 서브에이전트가 말을 안 듣거나 과하게 쪼개질 때 나오는 반응.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrnouv/subagents_lol/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-11",
+      "category": "humor",
+      "rank": 11,
+      "title": "이 지경이 되니 울 것 같다는 쿼터 하소연",
+      "body": "제목이 이미 멘탈 붕괴. 하이드로젠·Jio·한도 글이 한꺼번에 쌓인 날의 감정선.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuk5zy/i_cant_man_i_cant_im_gonna_cry_at_this_point_bro/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-12",
+      "category": "humor",
+      "rank": 12,
+      "title": "구독 이름만 프로지 내용은 프로가 아니라는 비판",
+      "body": "같은 날 채널별 권한 차이와 맞물린 화난 제목.\n마케팅 이름과 실제 모델 접근이 다르다는 불만.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuljw4/google_is_scamming_people_by_calling/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-13",
+      "category": "humor",
+      "rank": 13,
+      "title": "안티그래비티가 PC를 망가뜨렸다는 제목의 하소연",
+      "body": "과격한 제목의 장애 글. 무엇이 깨졌는지는 제목만으로 단정하지 말 것.\n파일·설정 사고 주의와 같은 맥락으로만.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrelw1/antigravity_just_broke_my_pc/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-14",
+      "category": "humor",
+      "rank": 14,
+      "title": "선다 피차이: 카본이 펠리컨 데모를 만들어서, 너희가 안 해도 됨",
+      "body": "공식 계정 트윗. /swarm으로 빌더·크리틱 서브에이전트가 블렌더와 Three.js를 돌며 렌더를 검사.\n새 모델 발표에 펠리컨을 빼지 않는 전통.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/sundarpichai/status/2120198811297694192"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-15",
+      "category": "humor",
+      "rank": 15,
+      "title": "펠리컨 캠퍼스 퀘스트 데모에서 금방 번아웃(드리프트)을 뽑았다는 글",
+      "body": "공식 펠리컨 데모를 만지다 차를 태워 버렸다는 후기.\n데모가 잘 만들어진 만큼, 장난도 빨리 됨.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/lukeissilva/status/2120847895767490564"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-16",
+      "category": "humor",
+      "rank": 16,
+      "title": "2.0 강제 업데이트가 작업 중에 앱을 닫고 IDE를 날렸다는 한탄",
+      "body": "구글답다는 탄식과 함께, 일하다 강제 업데이트로 설정까지 깨졌다는 글.\n베이트 앤 스위치 비판이랑 같은 날의 현장감.\n원문 날짜 2026-05-20(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/carlosredondo/status/2056825820790882708"
+      ],
+      "sourceDate": "2026-05-20",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "humor-17",
+      "category": "humor",
+      "rank": 17,
+      "title": "에이전트 IDE 시장이 웹3 때 L1 난립과 닮았다는 말",
+      "body": "출시 당일. Cursor, Windsurf, Antigravity, Zed, Kiro, PearAI 등을 한 줄에 나열.\n1년 지나도 이름이 더 늘어서, 이 말이 더 맞아짐.\n원문 날짜 2025-11-18(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/Daniel_An23/status/1990926725518176517"
+      ],
+      "sourceDate": "2025-11-18",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-01",
+      "category": "ai",
+      "rank": 1,
+      "title": "보이스 모드, 빈 입력창 버튼으로 시작하고 개인 계정에 일반 제공",
+      "body": "릴리스 노트 v2.29–2.31. 제미니 라이브 기반 보이스 모드가 개인 계정에 일반 출시(비즈니스·엔터프라이즈는 제외).\n빈 메시지 상자 버튼으로 통화를 시작하고, 말로 에이전트에게 일을 넘김.\n마이크 권한 문제면 원인과 OS 설정 링크를 보여주고, 끊기면 자동 재연결·Reconnect 버튼이 있음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://antigravity.google/blog/antigravity-voice-mode"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-02",
+      "category": "ai",
+      "rank": 2,
+      "title": "통화가 끝나면 요약이 나오고, 질문 카드는 말로 넘길 수 있음",
+      "body": "보이스 콜이 끝나면 트랜스크립트 카드에 짧은 요약이 붙음.\n여러 개 질문이 떠 있을 때 말로 답하면 다음 카드로 넘어가고, 카드를 직접 고르면 보이스 모드가 그 문항을 건너뜀.\n못 들은 구간이 남거나 이전 통화 오디오가 섞이던 버그도 이 업데이트에서 손봤다고 함.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-03",
+      "category": "ai",
+      "rank": 3,
+      "title": "안티그래비티 IDE에서 마이크 아이콘이 안 보일 때",
+      "body": "최신 IDE에서 음성 입력 아이콘이 어디 있냐는 질문 글이 올라옴.\n앱 쪽 보이스 모드는 빈 메시지 상자 버튼인데, IDE 표면은 위치가 다를 수 있음.\n공식 롤아웃과 IDE UI가 한박자 다를 수 있으니, 앱/IDE를 구분해 찾는 게 맞음.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqhha4/where_is_the_microphone_voice_input_icon_in/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-04",
+      "category": "ai",
+      "rank": 4,
+      "title": "/swarm으로 서브에이전트를 공유 메시지 보드 위에서 병렬로 돌림",
+      "body": "릴리스 노트와 공식 X 둘 다 같은 설명. /swarm 한 방에 전문 서브에이전트를 띄우고, 공유 메시지 보드로 조율함.\n데스크톱 앱과 CLI 모두 지원. 긴 작업을 병렬로 나눌 때 쓰는 슬래시 명령.\n공식 계정은 ‘한 프롬프트를 코디네이터 에이전트 + 보드로 바꾼다’고 소개.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://x.com/antigravity/status/2120279327589773639",
+        "https://x.com/antigravity/status/2120279354596811230",
+        "https://antigravity.google/blog/gemini-4-carbon-in-google-antigravity"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-05",
+      "category": "ai",
+      "rank": 5,
+      "title": "/swarm에는 라이브 보드랑 그래프 타임라인 탭이 있음",
+      "body": "공식 X가 /swarm UI를 쪼개 설명. 코디네이터·공유 보드에 이어, 라이브 보드와 그래프 타임라인 탭이 따로 있음.\n에이전트들이 지금 뭘 하는지, 작업이 어떻게 갈라지는지 보는 화면.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2120279381364916637",
+        "https://x.com/antigravity/status/2120279354596811230"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-06",
+      "category": "ai",
+      "rank": 6,
+      "title": "원격 클라우드 에이전트는 유료 프로·울트라, 주소는 antigravity.google.com/remote",
+      "body": "로컬 대신 클라우드 프로젝트에서 대화가 돌아감. 유료 Google AI Pro와 Ultra가 대상.\n프로젝트 만들 때 This Computer / Remote를 한 마법사에서 고르고, 깃허브 저장소 접근은 Configure on GitHub로 추가.\n공식 X 표현은 ‘일 던져 놓고 자리 비워도, 독립 클라우드 VM에서 돌아간다’.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://x.com/antigravity/status/2118530564428833010"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-07",
+      "category": "ai",
+      "rank": 7,
+      "title": "지식 업무 레이아웃은 설정 > General > Interface Layout에서 바꿈",
+      "body": "개인 구글 계정 기준. 코드 디프·개발자 툴을 숨기고, 진행 상황을 한 줄로 줄이고, 명령을 평범한 말로 보여 줌.\n연구·글쓰기·일상 작업용. 공식 블로그의 Knowledge Work와 같은 기능의 실제 경로.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://antigravity.google/blog/antigravity-for-knowledge-work"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-08",
+      "category": "ai",
+      "rank": 8,
+      "title": "첫 로그인 때 역할을 고르면 레이아웃이 맞춰짐",
+      "body": "온보딩에서 Software Engineering, Knowledge Work, Data & Analytics, Science, Design 중 고름.\n홈 화면은 위쪽에 인사, 아래쪽에 입력창을 고정하고, 역할에 맞는 시작 워크플로·플러그인을 미리 붙여 줌.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-09",
+      "category": "ai",
+      "rank": 9,
+      "title": "클로드 코드·코덱스·Cursor 설정을 한 프롬프트로 가져올 수 있음",
+      "body": "에이전트에게 셋업을 가져오라고 하면 MCP 서버, 스킬, 커스텀 커맨드, 서브에이전트, 인스트럭션 파일을 옮겨 커스텀 플러그인으로 만든다고 함.\n다른 에이전트 IDE에서 넘어올 때 쓰는 공식 마이그레이션.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-10",
+      "category": "ai",
+      "rank": 10,
+      "title": "아이파이썬 노트북이 앱 안에서 네이티브로 열림",
+      "body": ".ipynb를 파일 뷰어가 직접 렌더링. 코드 셀, 마크다운, 테이블, 이미지, 셀 출력까지 앱을 안 나가도 봄.\n공식 X도 같은 기능을 따로 안내함.\n원문 날짜 2026-11-05(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://x.com/antigravity/status/2118234632801910871"
+      ],
+      "sourceDate": "2026-11-05",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-11",
+      "category": "ai",
+      "rank": 11,
+      "title": "오토메이션 허브가 예약·상시·일시정지 목록으로 정리됨",
+      "body": "Scheduled, Always on, Paused로 나뉘고 Next run·Last run이 보임.\n일정은 일반 메뉴로 고르고, 실행 상세는 페이지 안에서, 새 작업은 전체 화면 폼으로 만듦.\n아카이브된 실행은 검색 필터로 찾음. 2.0의 예약 작업이 UI로 자리 잡은 형태.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://antigravity.google/blog/google-io-2026-feature-deep-dive"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-12",
+      "category": "ai",
+      "rank": 12,
+      "title": "브라우저 에이전트가 파일을 받을 때는 승인을 기다림",
+      "body": "다운로드가 자동으로 안 떨어지고, 사용자가 허락할 때까지 멈춤.\n에이전트가 조종하는 페이지는 마우스·키보드를 락킹하지 못하게 막음.\n공식 X도 ‘뭐에 로그인할지는 네가 정하고, 다운로드는 승인 전까지 멈춘다’고 씀.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://x.com/antigravity/status/2120556423474028576"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-13",
+      "category": "ai",
+      "rank": 13,
+      "title": "내장 브라우저에서 WebUSB·시리얼 등 하드웨어에 연결 가능",
+      "body": "주소창 아래 장치 선택 메뉴로 USB, 시리얼 같은 장치에 연결.\n임베디드·하드웨어 작업할 때 브라우저 에이전트가 장치를 건드릴 수 있게 된 것.\n다운로드 폴더는 설정 > Browser에서 정하고, 방문 기록도 거기서 지움.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-14",
+      "category": "ai",
+      "rank": 14,
+      "title": "기본 테마는 오닉스, 글꼴은 구글 산스… 크기는 12·14·16",
+      "body": "신규 설치 기본값이 Onyx + Google Sans.\n설정 > Appearance에서 System UI / Inter / Google Sans를 고르고, UI 글자 크기는 12·14·16픽셀.\n대화를 가로로 꽉 채우는 Fill, 접근성의 Screen Reader Mode도 같은 영역에 있음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-15",
+      "category": "ai",
+      "rank": 15,
+      "title": "단축키는 설정 > Shortcuts에서 바꾸고 기본값으로 되돌릴 수 있음",
+      "body": "커스텀 숏컷 + 리셋이 공식 릴리스 노트에 명시됨.\n대화·사이드 패널은 위아래 화살표로 한 줄씩 스크롤.\n창 크기·최대화·전체화면 상태도 재시작 후 복구되도록 고쳤다고 함.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-16",
+      "category": "ai",
+      "rank": 16,
+      "title": "깃 브랜치와 워크트리를 한 메뉴에서 고르고, 권한은 대화별로",
+      "body": "저장소 하나짜리 프로젝트는 브랜치·워크트리 선택이 한 메뉴로 합쳐짐. 브랜치가 15개 넘으면 검색이 붙음.\n권한 프리셋은 아이콘이 달라졌고, 개인 계정에선 대화마다 적용. Auto 모드는 Preview에서 졸업.\nPAYG 설정은 클라우드 프로젝트 ID를 치다 보면 자동완성됨.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://antigravity.google/blog/vcs-and-terminal"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-17",
+      "category": "ai",
+      "rank": 17,
+      "title": "에이전트 질문 카드는 접을 수 있고, 새 답을 보내면 자동 취소",
+      "body": "긴 대화를 위로 스크롤해 볼 때 질문 카드를 접어 둘 수 있음.\n그 상태에서 새 메시지를 보내면 그 질문은 자동으로 취소됨.\n서브에이전트 알림은 턴의 Worked for 안으로 접혀서 화면을 덜 먹음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-18",
+      "category": "ai",
+      "rank": 18,
+      "title": "코드 하이라이트 173개 언어, 머메이드는 전체 화면으로",
+      "body": "코드 블록·디프는 언어 하이라이트를 필요할 때 로드. 파일 트리 아이콘도 30개 넘게 추가.\nOverview·Review 탭에 추가/삭제 줄 수가 합계로 보임.\n마크다운 이미지 캐러셀과 머메이드 다이어그램은 줌·복사·다운로드 되는 전체 화면 뷰어로 열림.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-19",
+      "category": "ai",
+      "rank": 19,
+      "title": "플러그인을 @로 언급하면 로고와 설명이 뜨고, 딥링크로 설치할 수 있음",
+      "body": "antigravity:// 링크로 마켓 플러그인/스킬로 바로 가거나, 새 대화 프롬프트를 미리 채워 줌.\n에이전트 답변 카드에서 플러그인·스킬을 설치하면 그 대화를 이어서 재개.\nAPI 키가 선택인 플러그인은 키 없이 일단 동작하고, 계정 탭에 로그인 실패 이유가 명확히 나온다고 함.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://antigravity.google/blog/plugin-marketplace-in-antigravity"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-20",
+      "category": "ai",
+      "rank": 20,
+      "title": "전체 화면 플러그인을 대화랑 스플릿 뷰로 나란히 둘 수 있음",
+      "body": "타이틀 바와 업데이트 버튼은 그대로 두고, 플러그인 전체 화면과 대화를 좌우로 나눔.\n다이어그램·디자인 같은 MCP 파일 뷰어는 수정분을 로컬 파일에 바로 저장.\n공식 X도 ‘나란히 레이아웃’을 따로 소개함.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/",
+        "https://x.com/antigravity/status/2119913613204857284"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-21",
+      "category": "ai",
+      "rank": 21,
+      "title": "에이전트마다 모델을 고정할 수 있음",
+      "body": "공식 X: Pin a specific model to an agent.\n오케스트레이터가 모델을 자동으로 바꿔 주기 전에, 특정 에이전트는 지정 모델만 쓰게 고정하는 설정.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2120279412771844600"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-22",
+      "category": "ai",
+      "rank": 22,
+      "title": "깃허브 저장소와 구글 드라이브를 한 프로젝트에 묶을 수 있음",
+      "body": "공식 X. 코드와 문서를 같은 대화에서 읽고 쓰게 함.\n웹에서 시작했다가 데스크톱에서 이어서 하는 흐름도 같이 언급.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2118530670465102172"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-23",
+      "category": "ai",
+      "rank": 23,
+      "title": "안티그래비티 안에서 유니티 3D 워크플로를 돌릴 수 있음",
+      "body": "공식 X: 빌드·시뮬레이션·관리를 안티그래비티를 안 나가고 함.\n3D·게임 쪽 MCP/플러그인 확장.\n원문 날짜 2026-10-30(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2115852659030659303"
+      ],
+      "sourceDate": "2026-10-30",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-24",
+      "category": "ai",
+      "rank": 24,
+      "title": "SentinelOne 콘솔을 읽기 전용 MCP로 붙여 알림을 조회",
+      "body": "공식 X. Purple AI MCP 서버로 SentinelOne Singularity 콘솔을 조회.\n보안 알림 조사를 에이전트 대화 안으로 가져온 연동.\n원문 날짜 2026-10-30(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2115852628663869820"
+      ],
+      "sourceDate": "2026-10-30",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-25",
+      "category": "ai",
+      "rank": 25,
+      "title": "브라우저 사용이 조사·코딩·검증 루프를 닫아 줌",
+      "body": "공식 X. 에이전트가 내장 브라우저를 써서 찾아보고, 코드 짜고, 라이브로 확인.\n로그인 대상은 사용자가 정함. 연구와 소프트웨어 검증에 CLI만으로 부족한 지점을 메운다는 설명.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2120556423474028576"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-26",
+      "category": "ai",
+      "rank": 26,
+      "title": "인터페이스가 새 디자인으로 바뀌었고, 공식도 의견을 구함",
+      "body": "공식 계정이 ‘이미 본 사람 많을 텐데, 어떻게 생각하는지 알려 달라’고 새 UI를 올림.\n좋아요는 많았지만, 커뮤니티에선 생각 과정이 안 보인다·UI가 너무 많다는 글이 바로 나옴.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2118477081130512577",
+        "https://www.reddit.com/r/google_antigravity/comments/1xorkwm/cannot_see_what_the_model_is_thinking_anymore_in/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xoop50/wow_so_much_ui_please_reveal_less/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-27",
+      "category": "ai",
+      "rank": 27,
+      "title": "새 UI에서 모델이 생각 중인 내용이 안 보인다는 불만",
+      "body": "11월 5일(UTC) 글. 업데이트 후 사고 과정(thinking)이 안 보인다는 질문.\n디자인은 깔끔해졌는데, 중간 추론을 보고 싶던 사람한텐 정보량이 줄었음.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xorkwm/cannot_see_what_the_model_is_thinking_anymore_in/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-28",
+      "category": "ai",
+      "rank": 28,
+      "title": "첫 프롬프트를 보내기 전에 파일 탐색기·터미널을 열고 싶다는 요청",
+      "body": "에이전트에게 말을 걸기 전에는 탐색기·터미널이 잠긴 듯한 UX에 대한 글.\n폴더를 먼저 확인하고 싶은 실사용 요구.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xshjw5/please_let_us_access_the_file_explorer_and/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-29",
+      "category": "ai",
+      "rank": 29,
+      "title": "시스템을 안 건드치게 안티그래비티를 샌드박스에 가두는 방법 질문",
+      "body": "삭제 사고가 반복되는 시점에 ‘시스템을 못 깨게 어떻게 가두나’는 글이 올라옴.\n승인만 믿기보다, 권한·워크스페이스 범위를 좁히고 백업을 전제로 쓰라는 흐름의 질문.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqd4si/how_can_i_sandbox_antigravity_to_prevent_it_from/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-30",
+      "category": "ai",
+      "rank": 30,
+      "title": "파일 삭제 사고가 반복되니, 승인·휴지통·깃 백업을 기본값으로",
+      "body": "드라이브·워크스페이스 삭제 제보가 2025년 말부터 2026년 11월까지 이어짐.\n한 X 글은 수동 승인을 켜도 cleanup이 D: 쪽을 지우기 시작했다고 경고함.\n사람 욕하기보다 도구 설정 문제. 자동 실행을 줄이고, 명령 검토를 켜고, 휴지통·깃을 쓰라는 쪽으로 정리하는 게 맞음.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xpbc54/antigravity_ran_a_command_to_delete_my_entire/",
+        "https://www.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
+        "https://www.reddit.com/r/google_antigravity/comments/1qsv6q6/antigravity_gemini_3_incorrectly_deleting_files/",
+        "https://www.reddit.com/r/google_antigravity/comments/1tmt97m/antigravity_deleted_all_my_files_in_the_workspace/",
+        "https://x.com/deweytn/status/2118730493592010963",
+        "https://www.reddit.com/r/google_antigravity/comments/1xqd4si/how_can_i_sandbox_antigravity_to_prevent_it_from/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-31",
+      "category": "ai",
+      "rank": 31,
+      "title": "폴더 정리 한 마디가 파일시스템 전체로 번질 수 있음",
+      "body": "r/vibecoding 글. 데스크톱 접근 권한을 주고 ‘모든 폴더를 정리해 달라’고 했더니 말 그대로 전부 손댔고, 백업이 없었음.\n프롬프트를 넓게 쓰면 에이전트는 넓게 실행함. 범위와 백업을 먼저 정하는 게 예방.\n원문 날짜 2026-02-24(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/vibecoding/comments/1rdewdi/antigravity_killed_my_laptop/"
+      ],
+      "sourceDate": "2026-02-24",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-32",
+      "category": "ai",
+      "rank": 32,
+      "title": "사이드 질문 패널을 접으면 백그라운드 루프가 쿼터를 다 태울 수 있음",
+      "body": "PSA: /btw 사이드 질문 패널을 최소화하지 말라는 글.\n백그라운드 루프 버그가 토큰 7,400만을 태우고 울트라 사용량을 날렸다고 함.\n릴리스 노트에도 /btw가 서브에이전트 대화에서 에러를 내던 수정이 있어서, 이 기능은 아직 예민함.\n원문 날짜 2026-11-07(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xpk5lp/psa_dont_minimize_btw_side_question_panels_right/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-33",
+      "category": "ai",
+      "rank": 33,
+      "title": "프로 서브에이전트 호출이 아르곤·카본이 아니라 플래시로 갈 수 있음",
+      "body": "‘Beware! Pro now goes to Flash’ 글. pro라는 서브에이전트 호출이 3.8 Flash로 라우팅된다는 경고.\n비싼 모델을 기대한 호출이 싼 모델로 떨어지면 결과·쿼터 계산이 다 빗나감. 설정·스킬에 모델이 어떻게 박혀 있는지 확인이 필요.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsqpg0/beware_pro_now_goes_to_flash_not_argon_or_carbon/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-34",
+      "category": "ai",
+      "rank": 34,
+      "title": "스킬 파일에 모델을 박아 두면 의도치 않은 모델이 뜰 수 있음",
+      "body": "PSA on skills that specify models. 스킬이 특정 모델을 지정하면, 지금 고른 모델과 어긋날 수 있음.\n프로→플래시 라우팅 경고와 같이 보면, 호출 이름과 실제 모델이 분리돼 있다는 뜻.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xq8euo/psa_on_skills_that_specify_models/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-35",
+      "category": "ai",
+      "rank": 35,
+      "title": "클로드로 계획하고 아르곤으로 실행하는 조합을 쓰는 사람 있음",
+      "body": "플래닝은 클로드, 실행은 아르곤으로 나누자는 경험 글.\n오케스트레이터가 카본·하이드로젠을 나눠 쓰는 공식 패턴이랑 같은 생각. 모델 역할을 분리하는 워크플로.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqy638/anyone_tried_planning_with_claude_and_executing/",
+        "https://x.com/thomas_rehmer/status/2120962992422699017"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-36",
+      "category": "ai",
+      "rank": 36,
+      "title": "IDE에서 클로드는 병렬 서브에이전트를 띄우는데 제미니는 잘 안 띄운다는 관찰",
+      "body": "같은 안티그래비티 IDE인데, 오퍼스/소넷은 병렬 서브에이전트를 잘 트리거하고 네이티브 제미니는 잘 안 한다는 글.\n모델마다 도구 사용 성향이 다르니, 병렬이 필요하면 모델 선택이 워크플로의 일부가 됨.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqx7xm/why_does_claude_opussonnet_trigger_parallel/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-37",
+      "category": "ai",
+      "rank": 37,
+      "title": "hooks.json이랑 깃 워크트리로 멀티태스킹 개인 에이전트를 구성한 사례",
+      "body": "훅과 워크트리로 안티그래비티를 개인 에이전트처럼 썼다는 장문 후기.\n작업 단위를 워크트리로 분리하면 에이전트가 한 작업으로 다른 작업을 덮어쓰기 어려움.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtcav0/how_i_turned_google_antigravity_into_a/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-38",
+      "category": "ai",
+      "rank": 38,
+      "title": "agy-hq 셋업을 묶어 공개한 글, 서브에이전트 vs 빈 채팅 토큰 이야기도 붙음",
+      "body": "개인 비서 셋업을 패키징했다는 글. 토큰 로그를 근거로 서브에이전트와 방치된 채팅의 차이를 말함.\n수치는 작성자 로그 기준이라 공식 값은 아님. 구성 공유 자체는 참고할 만함.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xu2x5f/i_packaged_my_multitasking_personal_assistant/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-39",
+      "category": "ai",
+      "rank": 39,
+      "title": "안티그래비티 IDE의 인터랙티브 디프 리뷰를 VS Code 확장으로 오픈소스화",
+      "body": "IDE에서 쓰던 디프 리뷰 흐름을 VS Code 확장으로 빼서 공개했다는 글.\n공식 확장이 아닌 커뮤니티 구현. 에디터를 안 바꾸고 리뷰 UX만 가져가고 싶을 때 참고.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqlleb/i_opensourced_the_antigravity_ide_interactive/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-40",
+      "category": "ai",
+      "rank": 40,
+      "title": "아랍어·RTL 정렬 깨짐을 고친 오픈소스 패치가 올라옴",
+      "body": "채팅에서 아랍어/BiDi 정렬이 깨지던 문제를 고쳤다는 글.\n공식 수정 전 커뮤니티가 먼저 패치를 공유한 사례.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xss86n/fixed_the_broken_rtl_arabic_bidi_text_alignment/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-41",
+      "category": "ai",
+      "rank": 41,
+      "title": "윈도우 2.5.5에서 만료된 인증서 문제를 우회한 후기",
+      "body": "전문가는 아니라면서, 만료된 인증서 때문에 막히던 2.5.5를 고친 방법을 공유한 글.\n보안 설정은 함부로 끄지 말고, 원인(인증서 만료)부터 확인하는 게 맞음.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xp20dy/windows_i_fixed_the_expiredcertificate_issue_in/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-42",
+      "category": "ai",
+      "rank": 42,
+      "title": "WSL 경로(file://wsl.localhost/...)가 '폴더가 없다'며 파일 도구가 전부 깨짐",
+      "body": "UNC WSL 경로로 프로젝트를 열면 Folder doesn't exist가 나고, WSL 파일뿐 아니라 윈도우 아티팩트 열기까지 깨진다는 제보.\n리눅스 쪽 코드를 쓸 땐 경로 형식부터 확인하는 게 안전.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrn5ib/wsl_unc_project_folder_filewsllocalhost_shows/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-43",
+      "category": "ai",
+      "rank": 43,
+      "title": "자동 업데이트를 끄라는 글이 다시 올라옴",
+      "body": "2.0 강제 업데이트 트라우마 이후, 앱 자동 업데이트를 끄라는 주의가 반복됨.\n새 기능은 놓칠 수 있지만, 작업 중간에 UI가 바뀌는 걸 막는 실사용 팁.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xu4f3r/need_to_turn_off_autoupdate_on_antigravity_app/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-44",
+      "category": "ai",
+      "rank": 44,
+      "title": "안 보이는 인라인 제안을 끄는 방법 질문",
+      "body": "화면에 떠 있는 투명한 제안(invisible suggestions)을 어떻게 끄냐는 글.\n탭 완성·고스트 텍스트가 거슬릴 때 설정에서 먼저 찾는 포인트.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtrjp5/how_do_i_disable_these_invisible_suggestions/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-45",
+      "category": "ai",
+      "rank": 45,
+      "title": "엔터가 전송이 안 되고, 2.6에선 옵션+엔터도 안 된다는 제보",
+      "body": "엔터로 메시지가 안 보내진다는 글과, 2.6.0에서 Option+Enter가 죽는다는 글이 이어짐.\n단축키를 바꿨거나 IME·맥 옵션키가 먹는 환경에선 설정 > Shortcuts를 먼저 볼 일.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xq9s5e/why_pressing_enter_key_doesnt_send_the_message/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xosdis/option_enter_not_working_260/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-46",
+      "category": "ai",
+      "rank": 46,
+      "title": "2.0 트레이·시작 프로그램 옵션이 사라졌을 때 리모트 컨트롤 유지 우회",
+      "body": "트레이/시작 옵션이 없어져 원격 제어가 꺼진다는 글. 우회 방법을 묻는 형태.\n리모트 컨트롤을 쓰려면 앱이 백그라운드에서 살아 있어야 하니, 시작 옵션이 중요함.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqi15o/missing_antigravity_20_traystartup_options/",
+        "https://antigravity.google/blog/remote-control-for-antigravity"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-47",
+      "category": "ai",
+      "rank": 47,
+      "title": "제미니 라이브 목소리·배경 포커스를 커스텀하고 싶다는 설정 질문",
+      "body": "2.0에서 커스텀 문구와 배경 포커스로 보이스 동작을 바꾸는 방법을 묻는 글.\n공식 보이스 모드가 열린 직후라, 세부 톤·동작은 아직 문서가 부족한 상태.\n원문 날짜 2026-11-07(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xq2g5p/how_to_customize_gemini_live_voice_behavior_in/"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-48",
+      "category": "ai",
+      "rank": 48,
+      "title": "agy CLI 처음 세팅 팁을 공유해 달라는 글",
+      "body": "CLI를 처음 깔 때 막히는 사람이 팁을 모으는 스레드.\n공식 CLI 블로그와 함께 보면, 앱이 아니라 터미널 표면으로 들어가는 입문 포인트.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsuni7/any_tips_for_setting_up_agy_cli_for_the_first_time/",
+        "https://antigravity.google/blog/introducing-google-antigravity-cli"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-49",
+      "category": "ai",
+      "rank": 49,
+      "title": "CLI에서 모델이 전부 사라지고, 401이 반복된다는 제보",
+      "body": "‘All Models are gone on AGY CLI’와 하루에도 401이 계속 뜬다는 글.\n인증·쿼터·엔드포인트 문제일 수 있어서, 앱은 되는데 CLI만 안 되면 토큰/로그인을 의심.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xr4c3b/all_models_are_gone_on_agy_cli/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xtyn39/anyone_else_getting_constant_401_errors_in_the_cli/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-50",
+      "category": "ai",
+      "rank": 50,
+      "title": "앱이 이틀째 reconnecting만 보여 준다는 장애 제보",
+      "body": "연결이 안 붙고 재연결만 반복된다는 글.\n로컬 문제일 수도, 서버 쪽일 수도 있어서 같은 시간대 제보가 있는지가 먼저.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xu0jwx/antigravity_keeps_showing_reconnecting_for_the/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-51",
+      "category": "ai",
+      "rank": 51,
+      "title": "HTTP 429가 뜨면 일단 한도·요청 빈도를 의심",
+      "body": "Too Many Requests 에러로 앱을 못 쓴다는 글.\n쿼터나 일시 제한일 가능성이 큼. 재시도만 반복하면 더 막을 수 있음.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xp5wrl/cant_use_antigravity_error_code_http_429_too_many/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-52",
+      "category": "ai",
+      "rank": 52,
+      "title": "에이전트 실행이 에러로 끊기고, 서브에이전트가 결과를 안 돌려줌",
+      "body": "‘Agent execution terminated due to error’와 서브에이전트가 안 돌아오는 제보가 같은 주에 있음.\n2.5.5 같은 특정 버전을 언급한 글도 있음. 장시간 세션·병렬 작업에서 먼저 재현됨.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xthzfr/getting_agent_execution_terminated_due_to_error/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xowvo3/agent_execution_terminated_due_to_error/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xou21c/subagents_failing_to_return_anybody_else/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-53",
+      "category": "ai",
+      "rank": 53,
+      "title": "IDE 2.6에서 채팅 프롬프트가 아예 안 먹어 들어간다는 도움 요청",
+      "body": "2.6 IDE에서 입력이 동작하지 않는다는 글. 옵션+엔터 버그와 같은 버전대.\n업데이트 직후 입력 경로가 깨진 사례로 보면 됨.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xot0pf/help_i_cant_get_any_chat_prompts_to_work_in/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-54",
+      "category": "ai",
+      "rank": 54,
+      "title": "압축 모드가 토큰은 더 쓰고 답은 더 얕아진다는 불만",
+      "body": "Compacting mode가 응답을 더 토큰 공격적으로 만들고, 사고 사슬을 죽인다는 글.\n긴 대화를 줄이려다 오히려 사용량만 늘 수 있으니, 켜기 전후로 체감을 비교해 보는 게 좋음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xt3lap/compacting_mode_makes_the_responses_more_token/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-55",
+      "category": "ai",
+      "rank": 55,
+      "title": "플래시를 서브에이전트로 쪼개 돌리니 더 빨라졌다는 후기",
+      "body": "3.8 Flash를 서브에이전트로 나눠 쓰니 속도가 났다는 글.\n반대로 서브에이전트가 토큰을 더 먹는다는 질문 글도 있음. 작업 크기에 따라 득실이 다름.\n원문 날짜 2026-11-07(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xplzyy/i_made_gemini_38_flash_faster_in_antigravity/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xq5a4h/any_methode_to_make_flash_better_even_with_more/"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-56",
+      "category": "ai",
+      "rank": 56,
+      "title": "원격 에이전트가 정확히 뭘 하는지, 프로·울트라 VM 스펙을 묻는 글",
+      "body": "새 원격 에이전트가 뭘 하냐는 초보 질문과, 프로 VM 스펙·울트라는 어떻게 다르냐는 글.\n공식 설명은 클라우드 VM에서 작업이 돌고 웹에서도 이어서 본다는 수준. 세부 스펙은 공개가 적음.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xp4sf5/remote_agent_vm_pro_plan_spec_how_about_ultra_plan/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-57",
+      "category": "ai",
+      "rank": 57,
+      "title": "맥 최소 사양 충돌, 픽셀 요금제는 스타터 쿼터만 쓴다는 질문",
+      "body": "최소 macOS 요구가 충돌한다는 글, 픽셀 플랜이 Starter 쿼터만 쓴다는 글.\n기기·통신사·프로모 플랜은 본편 프로와 한도가 다를 수 있음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsx9hd/antigravity_min_macos_requirement_conflict/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xsc7cc/pixel_plan_is_only_using_the_starter_quoxx_is/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-58",
+      "category": "ai",
+      "rank": 58,
+      "title": "이미지 생성이 안티그래비티와 제미니 웹에서 다르게 나온다는 비교",
+      "body": "같은 계정이라도 표면마다 이미지 결과가 다르고, 프로에서도 이미지 사용량이 따로 깎이냐는 질문이 있음.\n모델·엔드포인트·쿼터 풀이 표면마다 분리돼 있을 수 있음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsu0n0/why_the_image_generation_in_antigravity_and/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xqdcpi/different_usage_for_image_generation_even_on_pro/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-59",
+      "category": "ai",
+      "rank": 59,
+      "title": "워크스페이스를 안티그래비티 IDE에 붙이는 방법 질문",
+      "body": "Google Workspace와 IDE 연동을 묻는 글.\n공식 X의 깃허브+드라이브 한 프로젝트와 방향은 같고, IDE 쪽 진입점을 찾는 질문.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsd2nn/google_workspace_integration_with_antigravity_ide/",
+        "https://x.com/antigravity/status/2118530670465102172"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-60",
+      "category": "ai",
+      "rank": 60,
+      "title": "플러그인 인증이 깨졌다는 제보",
+      "body": "플러그인 로그인이 버그로 실패한다는 글.\n릴리스 노트는 계정 탭에 실패 이유를 더 명확히 보여 준다고 했으니, 에러 문구부터 보는 게 맞음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtdj7k/antigravity_plugins_authentication_bugged/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy40u/antigravity_app_releases_v2290_v2310/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-61",
+      "category": "ai",
+      "rank": 61,
+      "title": "로그인 자체가 안 되고, 길게 쓰다 보면 앱이 버벅인다는 후기",
+      "body": "로그인 문제를 호소하는 글과, 오래 쓰면 랙이 심해진다는 글.\n장시간 세션·큰 대화 히스토리에서 성능 이슈가 반복됨. 릴리스 노트도 콜드 스타트·사이드바 반응을 고쳤다고 적음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xowiql/im_going_crazy_with_the_antigravity_login/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xtjnwt/antigravity_gets_really_laggy_after_using_it_for/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-62",
+      "category": "ai",
+      "rank": 62,
+      "title": "하이드로젠이 프로에 보이는데 실행하면 HTTP 404가 난다는 제보",
+      "body": "모델이 목록에는 있는데 호출하면 404. 롤아웃이 계정·리전·클라이언트를 다 덮기 전에 생기는 전형적인 증상.\n유료 프로라도 바로 안 열릴 수 있음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuiwhb/gemini_4_hydrogen_available_on_pro_plan_but_exits/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-63",
+      "category": "ai",
+      "rank": 63,
+      "title": "하이드로젠·카본이 프로모·트라이얼·Jio 요금제에는 안 열리는 경우가 많음",
+      "body": "프로모 프로, 트라이얼, Jio 사용자에게 모델이 안 보인다는 글이 한꺼번에 올라옴.\n공식은 유료 플랜이라고 했는데, 유료처럼 보이는 채널이 본편 프로와 권한이 다를 수 있음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuk8kf/hydrogen_not_available_in_promotional_pro_plan/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xujfaf/hydrogen_is_unavailable_for_trial_subs/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xuj67j/no_hydrogen_for_jio_users/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xtg6yv/argon_carbon_for_jio_users/",
+        "https://x.com/antigravity/status/2120944334023389476"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-64",
+      "category": "ai",
+      "rank": 64,
+      "title": "프로모 프로와 유료 프로의 쿼터가 같은지, 프리미엄 프로와는 어떻게 다른지",
+      "body": "같은 이름의 ‘프로’라도 채널이 다르면 한도가 다를 수 있다는 질문 글이 여럿.\n공식 숫자도 없으니, 대시보드의 리셋 주기·남은 양을 직접 보는 수밖에 없음.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xs0zdh/do_the_promotional_pro_and_paid_pro_have_the_same/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xqtm08/is_there_difference_between_freemium_pro_and_paid/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-65",
+      "category": "ai",
+      "rank": 65,
+      "title": "학생·Jio 프로에서 클로드와 GPT가 빠진다는 제보",
+      "body": "Student/Jio Pro에서 클로드·GPT가 더 이상 안 보인다는 글, 본편 프로에서도 빠지는지 묻는 글이 같이 나옴.\n플랜 권한은 자주 바뀌니, 모델 목록을 기준으로 확인하는 게 맞음.\n원문 날짜 2026-11-07(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xpnnbd/no_more_claude_and_gpt_on_student_and_jio_pro/"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-66",
+      "category": "ai",
+      "rank": 66,
+      "title": "11월 18일 이후 Jio 제미니 프로는 플래시만 남는다는 소문",
+      "body": "‘11월 18일 이후 플래시만?’이라는 질문 글. Enjoy Agentic 같은 정리 글도 그 날짜를 언급함.\n공식 블로그에서 그 날짜를 직접 확인하진 못해서, 일정은 미확인. 채널별 모델 정리는 실제로 진행 중.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuit6k/after_nov_18_only_gemini_flash_for_jio_gemini_pro/",
+        "https://enjoy.dev/blog/google-ai-pro-vs-ultra-antigravity/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "미확인",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-67",
+      "category": "ai",
+      "rank": 67,
+      "title": "울트라가 클로드 맥스보다 나은지, 둘 다 구독할지 묻는 비교",
+      "body": "울트라 vs 클로드 맥스, 구글 AI 프로 vs 클로드 프로, 안티그래비티 vs 코덱스 vs 클로드 코드 글이 한날에 올라옴.\n정답은 작업 종류·쿼터 체감에 달렸고, 커뮤니티도 갈림.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xujixx/is_the_google_ultra_plan_worth_it_compared_to/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xuepn6/why_doesnt_antigravityapp_show_tokens/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-68",
+      "category": "ai",
+      "rank": 68,
+      "title": "앱이 토큰 사용량을 안 보여 준다는 불만",
+      "body": "쿼터는 깎이는데 토큰 숫자가 안 보인다는 글.\n공식도 하드 토큰 수를 공개하지 않으니, 대시보드의 상대 사용량·리셋 시각만 보이는 구조.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuepn6/why_doesnt_antigravityapp_show_tokens/",
+        "https://limitdigest.com/guides/antigravity-limits-explained/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-69",
+      "category": "ai",
+      "rank": 69,
+      "title": "리셋 시각이 모델마다 다르고, 제미니·아르곤 리셋 PSA도 따로 올라옴",
+      "body": "Different reset times 글과, 제미니·아르곤 리셋이 돌아왔다는 PSA.\n5시간 창과 주간 캡이 모델 풀마다 다를 수 있음. 한 번 리셋됐다고 전 모델이 같이 차는 건 아님.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xr41jc/different_reset_times/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xpyakz/psa_reset_for_gemini_and_argon/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xpsa5s/usage_reset/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-70",
+      "category": "ai",
+      "rank": 70,
+      "title": "주간 쿼터·알려진 이슈를 모아 두는 11월 9일 스레드",
+      "body": "[Weekly] Quotas, Known Issues & Support — November 09.\n한도와 장애를 한곳에 모으려는 글. 개별 하소연을 찾기 전에 여기부터 보면 됨.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrmvl6/weekly_quotas_known_issues_support_november_09/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-71",
+      "category": "ai",
+      "rank": 71,
+      "title": "카본 초기 체감: 빠르다는 사람과 아직 못 켠 사람이 동시에 있음",
+      "body": "‘카본이 아르곤보다 작업을 더 빨리 끝낸다’는 일화와, ‘카본은커녕 아르곤도 못 쓴다’는 글이 같은 날 올라옴.\n울트라 우선 롤아웃이라 계정마다 온도 차가 큼. 예비 결과 글도 있음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xstmra/anecdotal_experience_carbon_seems_to_complete/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xszqoj/my_preliminary_results_on_carbon/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xthlst/cannot_access_carbon_argon_works_fine/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-72",
+      "category": "ai",
+      "rank": 72,
+      "title": "하이드로젠이 프로에서 일반 제미니 쿼터를 같이 깎는다는 관찰",
+      "body": "유료 프로에서 하이드로젠이 별도 풀이 아니라 일반 제미니 자원을 쓴다는 글.\n공식은 풀 구조를 숫자로 안 밝혀서, 체감은 사용자 관찰 단계. 모델이 열려도 한도 주머니는 공유일 수 있음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuji4m/gemini_4_hydrogen_used_regular_gemini_resources/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "미확인",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-73",
+      "category": "ai",
+      "rank": 73,
+      "title": "유료 프로와 무료처럼 보이는 프로의 토큰/초가 다르다는 제보",
+      "body": "같은 프로라도 유료/무료(또는 프로모) 버전의 토큰 처리 속도가 다르다는 글.\n권한뿐 아니라 속도 체감까지 채널이 갈릴 수 있음.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xpab59/different_token_per_s_between_pro_paid_and_free/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "미확인",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-74",
+      "category": "ai",
+      "rank": 74,
+      "title": "두 개의 AI 프로 계정을 번갈아 쓰는 게 TOS에 걸리는지 묻는 글",
+      "body": "주간 리셋을 기다리며 두 번째 유료 프로 계정을 써도 되냐는 질문, TOS 위반이냐는 질문이 있음.\n공식 답은 이 글만으로 단정할 수 없음. 계정 정책은 빡센 편이니 우회 목적으로 계정을 나누는 건 위험.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xth37i/can_i_use_my_second_paid_google_ai_pro_account_in/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xsnhbf/is_it_against_terms_of_service_to_use_two_ai_pro/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-75",
+      "category": "ai",
+      "rank": 75,
+      "title": "안티그래비티 쓰다가 구글 계정 자체가 잠겼다는 제보, 항소 4번이 거절됨",
+      "body": "앱 문제가 아니라 구글 계정 비활성화. HN의 서드파티 TOS 주의와 결이 맞음.\n원인 확정은 못 함. 계정 단위 정지면 툴만 바꿔선 해결이 안 됨.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xp10c0/my_entire_google_account_got_disabled_after_using/",
+        "https://news.ycombinator.com/item?id=49548452"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-76",
+      "category": "ai",
+      "rank": 76,
+      "title": "CLI에서 헤르메스를 끄자마자 TOS 위반으로 플래그가 올라왔다는 사용자 주장",
+      "body": "agy cli로 Hermes를 껐을 뿐인데 서드파티 사용으로 플래그 됐다고 함. 본인은 안 썼다고 반박.\n정책 적용 범위는 이 글만으로 확정 못 함. 계정 플래그 사례로만 보면 됨.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/apouriliaee/status/2120963736341233719"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "미확인",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-77",
+      "category": "ai",
+      "rank": 77,
+      "title": "PC가 비정상 종료되면 이전 컨텍스트가 날아가던 문제가 고쳐진 듯하다는 글",
+      "body": "예전에 전원이 끊기면 대화 맥락을 잃었는데, 최근 업데이트 이후 괜찮아 보인다는 사용자 글.\n완전 수정인지는 한 사람 체감. 그래도 장시간 작업은 중간 저장·깃 커밋이 안전함.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/ahnafabid03/status/2118588806555476294"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-78",
+      "category": "ai",
+      "rank": 78,
+      "title": "한 달 써 보니 Cursor가 앞섰고, 안티그래비티 2.0은 개입이 번거롭다는 비교",
+      "body": "XDA가 VS Code·Cursor·안티그래비티를 한 달 비교. 에이전트 위임·예약 작업은 좋은데, 코드를 직접 만지려면 별도 IDE로 넘어가야 한다고 함.\nCursor는 에이전트 창과 에디터를 한 제품 안에서 오갈 수 있어서 더 익숙했다는 결론.\n원문 날짜 2026-09-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.xda-developers.com/after-month-with-vs-code-cursor-google-antigravity-one-different-league/"
+      ],
+      "sourceDate": "2026-09-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-79",
+      "category": "ai",
+      "rank": 79,
+      "title": "공짜 토큰 쓸 때는 안티그래비티, 완성도는 Cursor라는 후기",
+      "body": "Built This Week 비교. Cursor가 더 다듬어져 있고, 안티그래비티는 덜 세련됐지만 제미니를 무료 구간에 쓸 수 있음.\n에디터 기능은 금방 서로 베끼니 격차는 오래 안 간다는 말도 있음.\n원문 날짜 2026-10-04(KST 기준).",
+      "sourceUrls": [
+        "https://www.builtthisweek.com/compare/cursor-vs-google-antigravity"
+      ],
+      "sourceDate": "2026-10-04",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-80",
+      "category": "ai",
+      "rank": 80,
+      "title": "출시 직후 반응: IDE가 아니라 코딩 에이전트 UI 같다",
+      "body": "스테렌이 며칠 써 보고 쓴 글. 제미니 3 프로 기반의 코딩 에이전트 UI고, 크롬으로 앱을 검증할 수 있는 게 특징이라고 함.\n처음부터 에디터 대결이 아니라 에이전트 표면 대결로 보는 시각.\n원문 날짜 2025-11-19(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/steren/status/1990819883559321616"
+      ],
+      "sourceDate": "2025-11-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-81",
+      "category": "ai",
+      "rank": 81,
+      "title": "원격 에이전트+보이스 모드 때문에 ‘커피 마시고 오면 PR이 끝’이라는 반응",
+      "body": "공식 피치를 받아적은 개발자 글들. 원격 에이전트가 클라우드 VM에서 돌아가고, 보이스로 계획·승인한다는 설명.\n권한 승인 레이어가 핵심 경쟁 포인트라는 평도 있음.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/stretchcloud/status/2118613354415841485",
+        "https://x.com/ParkerRex/status/2119574798393020648",
+        "https://x.com/akshay81844/status/2118899694898495671"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-82",
+      "category": "ai",
+      "rank": 82,
+      "title": "오케스트레이터로 카본 계획·하이드로젠 실행 시 쿼터 24%·시간 19%를 아꼈다는 글",
+      "body": "Thomas Rehmer 정리. 카본이 깊게 생각하고 하이드로젠이 빠르게 실행. Terminal-Bench에서 쿼터 24% 절감, 19% 빠르다고 함.\n벤치 수치라 모든 프로젝트에 그대로 적용되진 않음. 비싼 모델로 계획하고 싼 모델로 실행하는 패턴 자체는 공식 취지와 맞음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/thomas_rehmer/status/2120962992422699017",
+        "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-83",
+      "category": "ai",
+      "rank": 83,
+      "title": "하이드로젠 실측 TPS가 생성 구간에서 200토큰/초를 넘었다는 측정",
+      "body": "Antigravity에서 여러 번 재본 데이터라고 함. 주 생성은 184~250 TPS, 고치기 긴 작업은 159까지 떨어지지만 일반 생성은 200 이상 유지.\n한 사람 측정. ‘빠르다’는 공식 포지션과 방향은 같음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/xiax0603/status/2120963279489241461"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-84",
+      "category": "ai",
+      "rank": 84,
+      "title": "개인 사용자는 클라우드 통합 때문에 로컬 머신 없이 폰으로도 버틴다는 후기",
+      "body": "클라우드 연동이 균형이 좋아 로컬이 거의 필요 없고, 앱 반응은 클로드와 비슷하거나 더 경쾌하다는 일본어 후기.\n비즈니스 버전은 최신 모델이 늦게 열린다고 아쉬워함.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/furoku/status/2120964196850712615",
+        "https://x.com/r__morita/status/2120959659029004773"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-85",
+      "category": "ai",
+      "rank": 85,
+      "title": "수소가 형보다 벤치에서 앞섰다는 요약 글",
+      "body": "Artificial Analysis 지수에서 하이드로젠 51, 아르곤 50(xhigh 54)이라고 정리한 X 글.\n공식 벤치가 아니라 제3자 지수 인용. ‘가벼운 모델이 무거운 일을 한다’는 드립과 같이 돌아옴.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/MrAsifShah/status/2120960253479076282"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-86",
+      "category": "ai",
+      "rank": 86,
+      "title": "드론 스웜 발레 벤치에서 안티그래비티 하네스가 95점으로 앞섰다는 글",
+      "body": "같은 제미니 4 아르곤을 Pi 하네스와 안티그래비티 하네스에 넣어 비교했다고 함.\n모델보다 하네스가 점수를 가른다는 주장. 한 벤치 결과.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/AlicanKiraz0/status/2120964322725621790"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-87",
+      "category": "ai",
+      "rank": 87,
+      "title": "/swarm+카본으로 ‘한 프롬프트에 개발팀’을 시연한 글",
+      "body": "코디네이터 에이전트, 병렬 워크스페이스, 적대적 검증까지 한 명령으로 간다는 소개.\n공식 /swarm 피치를 그대로 받아 적은 사용 예.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/Pa3ck3/status/2120741936696848855",
+        "https://x.com/antigravity/status/2120279327589773639"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-88",
+      "category": "ai",
+      "rank": 88,
+      "title": "DeepMind가 안티그래비티로 특허·논문에서 화합물 후보를 뽑는 데모를 공개",
+      "body": "공식 X. 화학자들이 특허와 논문에서 화합물 데이터를 뽑고, 효능 요인을 분석하고, 합성 가능한 후보를 제안.\n연구 파트너 포지션의 실제 데모.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2119490135049867264",
+        "https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-89",
+      "category": "ai",
+      "rank": 89,
+      "title": "미특성 단백질을 훑어 항균 펩타이드 후보와 실험 설계까지 갔다는 데모",
+      "body": "공식 X. DeepMind 연구자가 안티그래비티로 수백만 미특성 단백질을 탐색하고, 항균 펩타이드를 검증하고, 실험실 프로토콜을 뽑음.\n에이전트가 문헌만이 아니라 실험 설계까지 간다는 메시지.\n원문 날짜 2026-11-02(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2116952756342677919"
+      ],
+      "sourceDate": "2026-11-02",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-90",
+      "category": "ai",
+      "rank": 90,
+      "title": "리눅스용 커뮤니티 RPM·Deb 저장소, 창 크기 유지, 상태줄 같은 주변 도구",
+      "body": "HN에 커뮤니티 패키지 저장소, 창 크기 유지 유틸, 설정 가능한 상태줄이 올라옴.\n공식 리눅스 패키지가 부족한 구간을 사용자가 메우는 중.\n원문 날짜 2026-09-09(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=49623052",
+        "https://news.ycombinator.com/item?id=50227234",
+        "https://news.ycombinator.com/item?id=50055873"
+      ],
+      "sourceDate": "2026-09-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-91",
+      "category": "ai",
+      "rank": 91,
+      "title": "안티그래비티가 안드로이드 Termux 네이티브 바이너리를 넣었다는 HN",
+      "body": "Google Antigravity Ships Native Android Termux Binaries.\n모바일/안드로이드 쪽에서 툴체인을 공식에 가깝게 넣으려는 움직임으로 보임.\n원문 날짜 2026-10-08(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=50009435"
+      ],
+      "sourceDate": "2026-10-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-92",
+      "category": "ai",
+      "rank": 92,
+      "title": "프로젝트 전환용 Antigravity Spaces, 추론 강화 /boost도 HN에 등장",
+      "body": "Spaces는 프로젝트를 쉽게 바꾼다는 커뮤니티/제품 소식, /boost는 깊은 추론을 켠다는 소개.\n공식 슬래시 명령이 늘고 있다는 신호.\n원문 날짜 2026-09-01(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=49789756",
+        "https://news.ycombinator.com/item?id=49517537"
+      ],
+      "sourceDate": "2026-09-01",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-93",
+      "category": "ai",
+      "rank": 93,
+      "title": "EGM 워크플로를 /swarm에 태운 사용 예, 멀티에이전트 디스패치 글도 있음",
+      "body": "/swarm을 특정 워크플로(EGM)에 얹어 본 글, 효율적인 멀티에이전트 디스패치·모니터링 글.\n공식 기능 위에 팀별 운영 방식을 올리는 단계.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtkrge/egm_workflow_with_swarm/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xpsy4i/efficient_multiagent_dispatch_and_monitoring/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-94",
+      "category": "ai",
+      "rank": 94,
+      "title": "제미니 4로 애플워치 테더/핫스팟을 만들었다는 쇼케이스",
+      "body": "워치 셀룰러를 맥에서 쓰려고 한 개인 프로젝트 후기.\n모델 자랑이라기보다, 에이전트로 하드웨어/네트워크 유틸을 짜 본 사례.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xr4emg/i_used_agygemini_4_to_build_a_apple_watch/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-95",
+      "category": "ai",
+      "rank": 95,
+      "title": "시네마 4D에서 3.8 플래시로 로폴리 엠파이어 스테이트를 뽑은 결과물",
+      "body": "3.8 Flash로 만든 로폴리 건물 이미지/장면 공유.\n코딩만이 아니라 3D·비주얼 작업에도 쓰는 사람 있음.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtmtln/lowpoly_empire_state_building_by_gemini_38_flash/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-96",
+      "category": "ai",
+      "rank": 96,
+      "title": "3.8 플래시가 느리다·빨라졌다·거의 못 쓰겠다는 체감이 일주일 안에 갈림",
+      "body": "같은 모델에 대해 ‘너무 느리다’ ‘이제 빠르다’ ‘거의 못 쓴다’가 동시에 나옴.\n서버 부하·계정 풀·지역 차가 섞인 체감. 한 게시물만 보고 성능을 단정하긴 어려움.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqq1ck/current_status_of_gemini_38_flash_in_google/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xqxdb0/gemini_38_flash_is_now_fast/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xqc93w/argon_on_antigravity_is_too_slow_today/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-97",
+      "category": "ai",
+      "rank": 97,
+      "title": "아르곤을 ‘야수’라고 한 날에도, 프로에서 3.1 프로가 3.8 플래시로 바뀌었다는 불만이 있음",
+      "body": "모델 품질 호평과, 쓰던 3.1 Pro가 3.8 Flash로 교체됐다는 불만이 공존.\n상위 모델 접근이 계정·시점마다 흔들림.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqy3sg/gemini_4_argon_is_beast/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xt6dn4/they_removed_the_31_pro_and_and_gave_me_38_flash/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-98",
+      "category": "ai",
+      "rank": 98,
+      "title": "카본 3배 토큰 소모 버그가 아르곤과 같다는 사용자 실측은 아직 공식 확인이 없음",
+      "body": "SQLite 감사로 카본도 3배 소모가 있다고 주장한 글. 제목은 단정적이지만 공식 재현은 없음.\n쿼터가 예상보다 빨리 달면, 이 주장을 참고만 하고 대시보드를 같이 보는 게 맞음.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xt8owo/measured_gemini_4_carbon_shipped_with_the_exact/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "미확인",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-99",
+      "category": "ai",
+      "rank": 99,
+      "title": "아르곤 소모가 프롬프트 2번에 7%라 나아졌다는 스크린샷 후기",
+      "body": "‘고친 것 같다’며 수치를 올린 글. 한 세션 실측.\n이전 과소모 불만과 비교되는 체감이지, 전 계정 수정 확인은 아님.\n원문 날짜 2026-11-02(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xljku6/argon_getting_better/"
+      ],
+      "sourceDate": "2026-11-02",
+      "status": "미확인",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-100",
+      "category": "ai",
+      "rank": 100,
+      "title": "오퍼스 5.5가 너프됐다는 주장은 사용자 체감 단계",
+      "body": "‘결정적으로 너프됐다’는 제목의 글. 모델 품질 저하는 체감 논쟁인 경우가 많음.\n공식 변경 로그로 확인된 건 아님.\n원문 날짜 2026-11-08(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xqlntt/vindicated_opus_55_has_definitively_been_nerfed/"
+      ],
+      "sourceDate": "2026-11-08",
+      "status": "미확인",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-101",
+      "category": "ai",
+      "rank": 101,
+      "title": "오케스트레이터를 처음 켜 보고 '이제 어떻게 하냐'는 질문",
+      "body": "하이드로젠 발표 당일, 오케스트레이터를 처음 테스트하고 다음 단계를 묻는 글.\n세션 안에서 카본·하이드로젠을 오가는 기능이라, 처음엔 결과 해석부터 막힐 수 있음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xumh0z/first_time_testing_orchestrator_and_i_gor_this/",
+        "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-102",
+      "category": "ai",
+      "rank": 102,
+      "title": "하이드로젠 프로 한도: 5시간·주간이 3.8 플래시와 같은지, 소모 속도는 어떤지",
+      "body": "유료 프로에서 하이드로젠 사용량, 5시간/주간 한도가 플래시와 비슷한지, 소모 속도 비교를 묻는 글이 연달아 올라옴.\n공식 숫자는 없고, 나온 지 하루도 안 된 시점의 질문.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xum4jq/4_hydrogen_usage_in_pro/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xum40b/how_are_the_5_hours_and_weekly_usage_looking_for/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xum300/hows_the_usage_depletion_of_hydrogen_vs_flash_38/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-103",
+      "category": "ai",
+      "rank": 103,
+      "title": "웹(AGY Web)에서 터미널을 못 연다는 제보",
+      "body": "원격/웹 표면에서 터미널이 안 열린다는 글.\n로컬 앱과 웹의 기능 커버리지가 다를 수 있음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xum0js/can_no_longer_open_terminal_from_agy_web/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-104",
+      "category": "ai",
+      "rank": 104,
+      "title": "하이드로젠이 나왔는데 사용량 리셋은 없다는 불만",
+      "body": "새 모델 출시 때마다 리셋이 오던 기대가 이번엔 안 맞았다는 글.\n리셋은 공식 재량이니, 모델 드롭과 자동으로 묶여 있진 않음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuj8na/no_reset_with_hydrogen_release/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-105",
+      "category": "ai",
+      "rank": 105,
+      "title": "아르곤 하이를 코덱스·뮤즈와 풀스택 프로젝트로 비교한 글",
+      "body": "실제 풀스택 작업으로 엔지니어링 결과를 정리했다는 제목.\n한 사람 벤치라 일반화는 조심. 모델 대 모델보다 하네스·워크플로 차이가 클 수 있음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xugu0b/i_tested_gemini_4_argon_high_against_codex_and/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-106",
+      "category": "ai",
+      "rank": 106,
+      "title": "구글 AI 프로 vs 클로드 프로, 안티그래비티 vs 코덱스 vs 클로드 코드",
+      "body": "둘 다 구독할지, 세 도구를 어떻게 고를지 묻는 글이 같은 날 올라옴.\n정답은 작업 종류·쿼터 체감. 커뮤니티도 한쪽으로 기울진 않음.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuf6lr/google_ai_pro_vs_claude_pro_is_it_worth_getting/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xuc6w2/antigravity_vs_codex_vs_claude_code/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-107",
+      "category": "ai",
+      "rank": 107,
+      "title": "클로드 코드와 사용량을 비교해 보자는 글",
+      "body": "같은 일을 두 도구에 넣었을 때 쿼터가 어떻게 깎이는지 보자는 취지.\n토큰 숫자가 앱에 잘 안 보이니, 대시보드 상대치로만 비교하게 됨.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xueqo9/usage_compared_with_claude_code/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-108",
+      "category": "ai",
+      "rank": 108,
+      "title": "6개월 써 본 클로드 코드 vs Cursor vs 코덱스 vs 안티그래비티",
+      "body": "HN에 올라온 장기 비교 글. 출시 직후 첫인상이 아니라 반년 사용 후기라는 점이 다름.\n한 사람 경험이라 순위는 참고만.\n원문 날짜 2026-06-02(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48371088"
+      ],
+      "sourceDate": "2026-06-02",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-109",
+      "category": "ai",
+      "rank": 109,
+      "title": "일주일 실사용으로 본 Cursor vs 안티그래비티",
+      "body": "HN. 짧은 기간이지만 ‘실사용’을 전면에 내세운 비교.\n에디터 통합이냐 에이전트 위임이냐로 호불호가 갈리는 구도와 맞음.\n원문 날짜 2026-01-12(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=46591026"
+      ],
+      "sourceDate": "2026-01-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-110",
+      "category": "ai",
+      "rank": 110,
+      "title": "v2.31.2 바이너리 디프: 1,024바이트·함수 하나, 에이전트 정체성에서 coding이 빠졌다는 분석",
+      "body": "커뮤니티 분해 글. 카본 후속 패치로 보이고, 프로 계정에 실제로 보이는 것과 서버 쪽 에이전트 정체성 문구 변화를 적음.\n공식 릴리스 노트가 아니라 사용자 분해. 숫자와 해석은 그 전제.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuac7p/teardown_binary_diff_antigravity_updated_to_v2312/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-111",
+      "category": "ai",
+      "rank": 111,
+      "title": "v2.30.0 분해: 좀비 프롬프트 데드락·윈도우 CRLF·장문 채팅 RAM·브라우저 격리 모듈 주장",
+      "body": "백엔드 +5.6MB, 셸 +445KB. 장문 채팅 RAM 40–60% 감소, 브라우저 격리 모듈 17개 같은 항목을 적음.\n공식 확인은 아님. 릴리스 노트와 겹치는 부분(응답성·편집)만 교차해서 보면 됨.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xs4ine/teardown_binary_diff_antigravity_updated_to_v2300/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-112",
+      "category": "ai",
+      "rank": 112,
+      "title": "울트라에서 카본 체감이 어떤지 묻는 글",
+      "body": "카본이 울트라 우선이라, 먼저 켠 사람들한테 실사용 후기를 구하는 스레드.\n초기 롤아웃에선 이런 질문 글이 가장 빠른 체감 창구.\n원문 날짜 2026-11-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xuigoh/how_is_gemini_carbon_on_the_ultra_plan/"
+      ],
+      "sourceDate": "2026-11-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-113",
+      "category": "ai",
+      "rank": 113,
+      "title": "프로에서 ‘Model unavailable, retrying in 93s’가 반복되고, 서버는 GOAWAY를 던진다는 제보",
+      "body": "모델 사용 불가가 루프가 됐다는 글, 플래시를 조이다가 GOAWAY까지 봤다는 글.\n일시 부하·쿼터·연결 종료가 겹친 장애 증상으로 보면 됨.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xu7fra/antigravity_on_google_ai_pro_is_practically/",
+        "https://www.reddit.com/r/google_antigravity/comments/1xulj32/first_they_throttled_gemini_38_flash_into/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-114",
+      "category": "ai",
+      "rank": 114,
+      "title": "유료 프로와 무료 프로의 도구 사용량이 다르다는 비교 글",
+      "body": "툴 호출 한도까지 채널이 갈릴 수 있다는 문제 제기.\n이름만 프로로 같아도 대시보드를 따로 봐야 함.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xu2v5u/paid_pro_plan_vs_free_pro_plan_tool_usage/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-115",
+      "category": "ai",
+      "rank": 115,
+      "title": "무료 프로에는 모델이 안 남는다는 제보",
+      "body": "Free Pro에서 모델 목록이 비었다는 글.\n무료·프로모 채널의 모델 접근이 좁아진 시점과 맞물림.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrfvq1/no_models_for_free_pro_anymore/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-116",
+      "category": "ai",
+      "rank": 116,
+      "title": "아이폰에서 입력창이 줌 인된다는 버그 제보",
+      "body": "iOS 프롬프트 입력 시 화면이 확대된다는 글.\n모바일 웹/원격 입력에서 자주 나오는 뷰포트 문제.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtmueh/ios_prompt_input_zooming/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-117",
+      "category": "ai",
+      "rank": 117,
+      "title": "제미니는 더 똑똑하고 클로드는 더 영리하다는 한 줄 비교",
+      "body": "지능(intelligent)과 재치(clever)를 나눠 본 체감 글.\n벤치 숫자가 아니라 말투·문제 접근 방식 이야기에 가깝음.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtmlhf/gemini_is_more_intelligent_claude_is_more_clever/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-118",
+      "category": "ai",
+      "rank": 118,
+      "title": "안티그래비티 IDE가 계속 죽는다는 제보",
+      "body": "크래시가 반복된다는 도움 요청.\n장시간 세션·특정 확장·업데이트 직후를 먼저 의심.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsy6xm/antigravity_ide_keeps_crashing/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-119",
+      "category": "ai",
+      "rank": 119,
+      "title": "/swarm 써 본 사람 체감을 모으는 스레드",
+      "body": "기능 발표 직후, 실제 사용 후기를 구하는 글.\n공식 피치(병렬 워크스페이스·검증)와 체감 쿼터·안정성이 같이 논의됨.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xstsji/whats_your_experience_with_swarm/",
+        "https://antigravity.google/blog/gemini-4-carbon-in-google-antigravity"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-120",
+      "category": "ai",
+      "rank": 120,
+      "title": "카본이 나오면 아르곤이 3.8 플래시랑 같은 쿼터 풀이 되냐는 질문",
+      "body": "모델이 늘수록 ‘어느 주머니에서 깎이나’가 핵심 질문.\n공식은 풀 구조를 숫자로 공개하지 않음.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsnmmb/when_gemini_carbon_release_will_gemini_argon_be/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-121",
+      "category": "ai",
+      "rank": 121,
+      "title": "IDE가 편집한 파일이 이상해졌다는 제보",
+      "body": "에이전트가 만진 파일 상태가 예상과 다르다는 글.\n디프 리뷰를 건너뛰면 덮어쓰기·인코딩·줄바꿈 문제를 놓치기 쉬움.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsjvm3/antigravity_ide_and_edited_files_wtf/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-122",
+      "category": "ai",
+      "rank": 122,
+      "title": "Loop, 안티그래비티 에이전트를 위한 새 UI라는 소개",
+      "body": "에이전트용 별도 UI를 선보이는 커뮤니티/제품 글.\n공식 앱 UI와 별개 표면인지, 워크플로 레이어인지 보고 쓰면 됨.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrv0zm/loop_a_new_ui_for_your_antigravity_agents/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-123",
+      "category": "ai",
+      "rank": 123,
+      "title": "에이전트 실행이 5분 스트림 유휴 타임아웃으로 죽는 에러",
+      "body": "stream idle timeout (5m0s): context deadline exceeded.\n오래 생각하거나 출력이 멈춘 작업에서 세션이 끊김. 작업을 쪼개거나 중간에 신호를 주는 식이 우회.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrufrl/agent_executor_error_generating_and_executing/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-124",
+      "category": "ai",
+      "rank": 124,
+      "title": "CLI 사용량 한도가 플래시로도 너무 낮다는 제보",
+      "body": "agy CLI만 한도가 빨리 닳는다는 글.\n앱과 CLI가 같은 쿼터를 쓰는지, CLI만 더 빨리 깎이는지는 공식 설명이 부족.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xr5myr/cli_usage_l1m1t_is_soooo_low_even_with_flash/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-125",
+      "category": "ai",
+      "rank": 125,
+      "title": "6주 스트레스 테스트: 1400억 토큰·49만 줄, 프로덕션 코드 약 48%를 바꿨다는 후기",
+      "body": "장기 사용 수치를 공개한 시리즈 3편. 하드 게이트가 오히려 역효과를 냈다는 이야기도 있음.\n한 팀/한 사람의 측정. 규모감만 참고.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xr3jud/stress_test_part_3_6_weeks_later_crossing_140b/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-126",
+      "category": "ai",
+      "rank": 126,
+      "title": "Figcraft를 안티그래비티에 연결하는 방법 질문",
+      "body": "디자인/피그마 계열 툴을 에이전트 워크플로에 붙이려는 글.\n플러그인·MCP로 외부 툴을 붙이는 수요가 이어짐.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xp9vzp/connect_figcraft_to_antigravity/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-127",
+      "category": "ai",
+      "rank": 127,
+      "title": "안티그래비티 IDE에 작별을 고한다는 글",
+      "body": "2.0 이후 IDE 경험에 지쳐 떠나는 쪽 글. 같은 시기 채팅·로그인·단축키 장애 제보와 맞물림.\n에디터는 따로 받는 구조로 바뀐 뒤, IDE만 쓰던 사람의 이탈이 보임.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xoxxiz/goodbye_antigravity_ide/"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-128",
+      "category": "ai",
+      "rank": 128,
+      "title": "제미니가 자기 사이트 보안 점검까지 막았다는 제보",
+      "body": "본인 사이트 보안 감사를 시키려다 가드레일에 걸렸다는 글.\n에이전트 안전장치가 합법적인 셀프 점검도 칠 수 있음. 범위 확인이 필요.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xrdu46/gemini_blocked_me_from_security_auditing_my_own/"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-129",
+      "category": "ai",
+      "rank": 129,
+      "title": "안티그래비티 접근 자체가 차단됐다는 글",
+      "body": "Blocked 제목의 도움 요청. 계정·지역·약관·쿼터 정지와 구분이 필요.\n같은 주제로 계정 잠금·TOS 주의 글이 이미 여럿.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsdusp/antigravity_blocked/"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-130",
+      "category": "ai",
+      "rank": 130,
+      "title": "영상을 분해·재현하는 작업이 유독 짜증 난다는 후기",
+      "body": "비디오를 쪼개고 다시 만드는 작업이 안티그래비티에서 잘 안 풀린다는 글.\n코딩 에이전트 표면이라 영상 파이프라인은 부가 기능에 가깝다.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xsytbl/deconstructingreplicating_a_video_is_so_damn/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-131",
+      "category": "ai",
+      "rank": 131,
+      "title": "LLM만 쓰는 구독이 있으면 좋겠다는 의견",
+      "body": "안티그래비티·에이전트 기능 없이 모델만 쓰는 요금제를 바라는 글.\n코딩 에이전트와 일반 모델 사용을 한 구독에 묶은 현재 구조에 대한 불만.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xszvt2/a_llm_only_subscription/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-132",
+      "category": "ai",
+      "rank": 132,
+      "title": "대학생 입장에선 무과금 플랜을 너무 줄인다는 불만",
+      "body": "비과금 한도가 학습·과제용으로 부족하다는 글.\n학생 요금제·Jio 채널 이슈와 따로, 교육 목적 접근성 이야기.\n원문 날짜 2026-11-11(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xtfsw6/as_a_college_student_limiting_the_nonpaid_plans/"
+      ],
+      "sourceDate": "2026-11-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-133",
+      "category": "ai",
+      "rank": 133,
+      "title": "코딩할 때 구글 검색을 어떻게 붙이냐는 질문",
+      "body": "검색을 에이전트 루프에 넣는 방법을 묻는 글.\n브라우저 에이전트·검색 도구가 있지만, 설정 진입점을 찾는 질문.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1xu9fwz/google_search_for_coding/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-134",
+      "category": "ai",
+      "rank": 134,
+      "title": "맥 메뉴바에 쿼터를 액체 구슬로 보여 주는 AI Usage Ball",
+      "body": "Show HN. 클로드·코덱스·안티그래비티 한도를 맥 리퀴드 오브로 표시.\n공식 앱이 토큰 숫자를 잘 안 보여 줘서, 이런 외부 모니터가 나옴.\n원문 날짜 2026-09-03(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=49549084"
+      ],
+      "sourceDate": "2026-09-03",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-135",
+      "category": "ai",
+      "rank": 135,
+      "title": "IDE를 안 열고 쿼터만 확인하는 Antigravity-usage CLI, 사용량 확장 Altimeter",
+      "body": "Show HN 두 개. 터미널에서 한도를 보거나, IDE 확장으로 토큰을 추적.\n대시보드가 빈약하니 커뮤니티가 측정 도구를 먼저 만드는 중.\n원문 날짜 2026-01-31(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=46681382",
+        "https://news.ycombinator.com/item?id=46834894"
+      ],
+      "sourceDate": "2026-01-31",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-136",
+      "category": "ai",
+      "rank": 136,
+      "title": "캐글 대회를 안티그래비티에서 시작하고 반복한 후기",
+      "body": "HN에 두 번 올라온 실습 글. 데이터 대회처럼 실험·커밋이 잦은 작업에 에이전트를 태운 사례.\n원문 날짜 2026-08-05(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=49183281",
+        "https://news.ycombinator.com/item?id=48858152"
+      ],
+      "sourceDate": "2026-08-05",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-137",
+      "category": "ai",
+      "rank": 137,
+      "title": "스펙 주도 개발 도구 Conductor가 안티그래비티를 지원",
+      "body": "Evolving Spec-Driven Development. 스펙을 먼저 쓰고 구현하는 워크플로를 안티그래비티에 붙임.\n에이전트 도구를 단독이 아니라 스펙 레이어와 같이 쓰는 방향.\n원문 날짜 2026-07-17(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48948824"
+      ],
+      "sourceDate": "2026-07-17",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-138",
+      "category": "ai",
+      "rank": 138,
+      "title": "애프터 이펙트를 클로드 코드·Cursor·안티그래비티와 같이 쓴다는 Show HN",
+      "body": "영상/모션 툴을 코딩 에이전트에 연결하는 시도.\nIDE 밖 창작 툴과의 브릿지.\n원문 날짜 2026-07-13(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48886809"
+      ],
+      "sourceDate": "2026-07-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-139",
+      "category": "ai",
+      "rank": 139,
+      "title": "왓츠앱으로 안티그래비티 2.0을 조종하는 모바일 채팅 프록시",
+      "body": "WhatsApp Coding. 폰 메신저로 에이전트를 돌린다는 글.\n공식 리모트 컨트롤과 별개인 커뮤니티 프록시. 계정·토큰을 메신저에 맡기는 보안 부담은 따로 봐야 함.\n원문 날짜 2026-07-01(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48742195"
+      ],
+      "sourceDate": "2026-07-01",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-140",
+      "category": "ai",
+      "rank": 140,
+      "title": "텔레그램으로 조종하는 Remoat, 오픈소스 모바일 매니저 Levitation",
+      "body": "폰에서 안티그래비티를 관리하려는 프로젝트가 잇달아 나옴.\n공식 원격 제어 이전·주변의 커뮤니티 해법.\n원문 날짜 2026-03-11(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=47212638",
+        "https://news.ycombinator.com/item?id=47334414"
+      ],
+      "sourceDate": "2026-03-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-141",
+      "category": "ai",
+      "rank": 141,
+      "title": "Maccha는 안티그래비티·클로드 코드·OpenCode를 잇는 크로스 에이전트 브레인",
+      "body": "Show HN. 여러 에이전트 도구의 맥락을 한곳에 모으려는 레이어.\n도구가 늘어날수록 ‘한 뇌에 모으기’ 수요가 생김.\n원문 날짜 2026-06-20(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48613604"
+      ],
+      "sourceDate": "2026-06-20",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-142",
+      "category": "ai",
+      "rank": 142,
+      "title": "역할 기반 오케스트레이션 Oh-my-ag",
+      "body": "Show HN. 안티그래비티용 역할 기반 에이전트 오케스트레이션.\n공식 /swarm·커스텀 에이전트와 결이 비슷한 커뮤니티 툴.\n원문 날짜 2026-02-02(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=46855664"
+      ],
+      "sourceDate": "2026-02-02",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-143",
+      "category": "ai",
+      "rank": 143,
+      "title": "안티그래비티 파워 유저 가이드가 HN에 올라옴",
+      "body": "A Power User Guide for Google Antigravity.\n설정·워크플로를 모은 입문/중급 가이드. 공식 문서 보완용.\n원문 날짜 2026-01-03(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=46482346"
+      ],
+      "sourceDate": "2026-01-03",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-144",
+      "category": "ai",
+      "rank": 144,
+      "title": "쿼터 실패를 조사해 제품 수정을 제안한 글",
+      "body": "한도 오류를 리서치하고 개선안을 냈다는 HN.\n사용자 쪽 관측으로 쿼터 UX를 문제 삼는 글.\n원문 날짜 2026-04-11(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=47730242"
+      ],
+      "sourceDate": "2026-04-11",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-145",
+      "category": "ai",
+      "rank": 145,
+      "title": "2.0 설치 프로그램이 기존 IDE를 깨뜨린다는 Ask HN, 클로드 코드 확장은 어디로 갔냐는 질문",
+      "body": "강제 업데이트 파동과 같은 주. 기존 IDE가 잠기거나, 쓰던 클로드 코드 확장이 안 보인다는 반응.\n에디터와 에이전트 앱이 갈라진 전환기의 혼란.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48199074",
+        "https://news.ycombinator.com/item?id=48198185"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-146",
+      "category": "ai",
+      "rank": 146,
+      "title": "에이전트 스킬이 안티그래비티에 들어왔다는 HN",
+      "body": "Agent Skills are now available in Google Antigravity.\n스킬 파일로 동작을 묶는 기능. 나중에 스킬에 모델을 박아 두면 의도와 다른 모델이 뜬다는 주의와도 연결됨.\n원문 날짜 2026-01-14(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=46613546"
+      ],
+      "sourceDate": "2026-01-14",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-147",
+      "category": "ai",
+      "rank": 147,
+      "title": "2.0이 OpenSCAD 건축 3D LLM 벤치에서 1등 했다는 글",
+      "body": "한 벤치 결과. 3D/CAD 생성에서 하네스가 점수를 갈랐다는 주장.\n다른 벤치와 마찬가지로 과제에 따라 순위는 바뀜.\n원문 날짜 2026-05-22(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48234090"
+      ],
+      "sourceDate": "2026-05-22",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "ai-148",
+      "category": "ai",
+      "rank": 148,
+      "title": "공식 커뮤니티 라운드업, 사용자 제작물을 모아 달라고 함",
+      "body": "@antigravity 스레드. 안티그래비티로 만든 결과물을 태그해 달라는 라운드업.\n공식 블로그 사례 외에 사용자 쇼케이스를 모으는 창구.\n원문 날짜 2026-11-07(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2119127745833713814"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-01",
+      "category": "news",
+      "rank": 1,
+      "title": "구글, 에이전트 우선 IDE 안티그래비티 공개 프리뷰 시작",
+      "body": "제미니 3랑 같이 나온 안티그래비티. 에디터·터미널·브라우저를 에이전트가 직접 돌리는 ‘에이전트 우선’ IDE로 내놨다.\n공개 프리뷰는 무료. 더 버지·Ars·CNBC도 출시 당일 받아적음.\n팀원인 Kevin Hou는 다음날 ‘프론티어 랩이 자체 IDE를 낸 건 처음’이라고 개인 블로그에 씀.\n원문 날짜 2025-11-18(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/introducing-google-antigravity",
+        "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro",
+        "https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/",
+        "https://www.cnbc.com/2025/11/18/google-announces-gemini-3-as-battle-with-openai-intensifies.html",
+        "https://khou22.com/blog/2025-11-19-google-antigravity-release"
+      ],
+      "sourceDate": "2025-11-18",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-02",
+      "category": "news",
+      "rank": 2,
+      "title": "출시 보도부터 'VS Code 포크 아니냐' 프레임",
+      "body": "Visual Studio Magazine이 ‘VS Code와 경쟁하려고 사실상 포크한 것 같다’고 씀.\n사이먼 윌리슨도 출시 당일 ‘또 하나의 VS Code 포크·Cursor 클론처럼 보인다’고 짧게 평함.\n구글이 공식으로 포크라고 못 박은 건 아니지만, 첫인상은 그쪽으로 고착됨.\n원문 날짜 2025-11-20(KST 기준).",
+      "sourceUrls": [
+        "https://visualstudiomagazine.com/articles/2025/11/20/google-joins-ai-ide-race-to-compete-with-vs-code-apparently-forking-vs-code.aspx",
+        "https://simonwillison.net/2025/Nov/18/google-antigravity/"
+      ],
+      "sourceDate": "2025-11-20",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-03",
+      "category": "news",
+      "rank": 3,
+      "title": "안티그래비티에 나노 바나나 프로 붙였다",
+      "body": "출시 이틀 만에 이미지 모델 Nano Banana Pro를 공식 연동.\n목업·에셋 뽑을 때 쓰라는 포지션. 코딩만 하는 툴은 아니게 가겠다는 신호.\n원문 날짜 2025-11-20(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/nano-banana-pro"
+      ],
+      "sourceDate": "2025-11-20",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-04",
+      "category": "news",
+      "rank": 4,
+      "title": "제미니 3 플래시, 안티그래비티에 공식 탑재",
+      "body": "‘생각의 속도로 에이전트 코딩’이라는 제목으로 3 Flash를 넣음.\n이후 한동안 이 빠른 모델이 프로 요금제의 실사용 핵심이었음.\n원문 날짜 2025-12-17(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-3-flash-in-google-antigravity"
+      ],
+      "sourceDate": "2025-12-17",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-05",
+      "category": "news",
+      "rank": 5,
+      "title": "제미니 3.1 프로로 고난도 작업 라인 강화",
+      "body": "2026년 2월, 3.1 Pro를 안티그래비티에 넣으며 고급 추론·긴 작업을 밀었음.\n이후 플래시와 프로가 쿼터를 공유하게 되면서 체감 한도 논란의 씨앗이 됨.\n원문 날짜 2026-02-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-3-1-pro-in-google-antigravity"
+      ],
+      "sourceDate": "2026-02-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-06",
+      "category": "news",
+      "rank": 6,
+      "title": "I/O 2026에서 안티그래비티 2.0 데스크톱 앱·CLI·SDK 발표",
+      "body": "5월 19일 I/O. 이번엔 IDE가 아니라 에이전트 오케스트레이션용 독립 앱이 전면.\nCLI·SDK도 같이 나왔고, 테크크런치·구글 개발자 블로그가 그대로 받아적음.\n공식 표현은 ‘더 이상 IDE가 없다’에 가깝고, 기존 IDE는 따로 남긴다고 함.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/introducing-google-antigravity-2",
+        "https://antigravity.google/blog/google-io-2026",
+        "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+        "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
+        "https://developers.googleblog.com/en/all-the-news-from-the-google-io-2026-developer-keynote/"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-07",
+      "category": "news",
+      "rank": 7,
+      "title": "강제 업데이트는 IDE가 아니다… 에디터는 따로 받아야 함",
+      "body": "2.0 강제 업데이트 직후 ‘에디터가 사라졌다’는 글이 폭주.\n정리 글 요지는, 그 업데이트는 런타임이고 실제 IDE는 별도 다운로드라는 것.\n다른 글은 원조 IDE가 아직 살아 있으니 antigravity.google에서 IDE를 고르라고 안내함.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1thxoh2/the_forced_antigravity_update_the_ide_you_need_to/",
+        "https://www.reddit.com/r/GoogleAntigravityIDE/comments/1tj1lds/antigravity_ide_isnt_gone_or_replaced_you_can/",
+        "https://antigravity.google/blog/introducing-google-antigravity-2"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-08",
+      "category": "news",
+      "rank": 8,
+      "title": "안티그래비티 CLI, 터미널용 에이전트 표면으로 분리",
+      "body": "I/O에서 공식 CLI를 공개. 제미니 CLI 쓰던 사람은 이쪽으로 옮기라는 메시지가 같이 나옴.\n터미널에서 에이전트를 돌리고 싶은 사람용 표면.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/introducing-google-antigravity-cli"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-09",
+      "category": "news",
+      "rank": 9,
+      "title": "안티그래비티 SDK로 하네스를 직접 돌릴 수 있게 됨",
+      "body": "구글이 내부에서 쓰는 에이전트 하네스를 프로그램으로 붙이는 공식 SDK.\n커스텀 에이전트·자체 인프라에 올리고 싶은 개발자용.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/introducing-google-antigravity-sdk"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-10",
+      "category": "news",
+      "rank": 10,
+      "title": "I/O에 맞춰 안티그래비티 요금제·쿼터 정책도 바꿈",
+      "body": "2.0과 같은 날 플랜 변경 공지.\n이후 커뮤니티 반발의 기준점이 된 글. 숫자 한도는 여기도 세세히 안 적고 정책 틀만 말함.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/changes-to-antigravity-plans"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-11",
+      "category": "news",
+      "rank": 11,
+      "title": "에이전트 93개가 12시간 동안 OS를 처음부터 만들었다고 발표",
+      "body": "I/O 데모. 서브에이전트 93개가 병렬로 1만 5천 번 넘게 요청하고 26억 토큰을 썼다고 함.\n비용은 API 크레딧 기준 1000달러 미만이라고 강조. 작동하는 OS 코어까지 갔다는 자랑성 글.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/google-antigravity-built-an-os"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-12",
+      "category": "news",
+      "rank": 12,
+      "title": "서브에이전트·훅·예약 작업이 2.0의 핵심  primitive",
+      "body": "I/O 기능 딥다이브. 동적 서브에이전트, JSON 훅, 비동기 작업, 예약(cron) 작업을 한 번에 설명.\n에이전트 관리 화면이 에디터보다 앞에 온 이유이기도 함.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/google-io-2026-feature-deep-dive"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-13",
+      "category": "news",
+      "rank": 13,
+      "title": "제미니 3.5 플래시, 안티그래비티 하네스랑 같이 튜닝해서 투입",
+      "body": "I/O에서 3.5 Flash를 안티그래비티와 공동 최적화했다고 밝힘.\n2.0 기본 엔진으로 쓰겠다는 뉘앙스.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-3-5-flash-in-google-antigravity"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-14",
+      "category": "news",
+      "rank": 14,
+      "title": "제미니 엔터프라이즈에도 안티그래비티 넣겠다고 I/O에서 발표",
+      "body": "개인 프리뷰를 넘어 기업용 라인으로 확장한다는 공식 글.\n같은 날 엔터프라이즈 메시지가 따로 나옴.\n원문 날짜 2026-05-19(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/google-antigravity-for-enterprises"
+      ],
+      "sourceDate": "2026-05-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-15",
+      "category": "news",
+      "rank": 15,
+      "title": "유료 플랜 제미니 캡을 하루 만에 3배로 올리고 주간 사용량도 리셋",
+      "body": "커뮤니티에 올라온 공식 측으로 보이는 공지. 유료 티어 제미니를 3배로 주고 그 주 사용량을 리셋.\n캡을 너무 빨리 찍는다는 불만에 급하게 응답한 형태.\n원문 날짜 2026-05-21(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1tjawn4/3x_more_gemini_for_antigravity_users/"
+      ],
+      "sourceDate": "2026-05-21",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-16",
+      "category": "news",
+      "rank": 16,
+      "title": "그다음 날 주간 제미니 캡을 또 3배, 유료 플랜 사용량도 다시 리셋",
+      "body": "‘어제도 3배 했는데 주간 캡이 걱정된다’는 피드백에 주간 캡을 한 번 더 3배.\n9to5Google·Android Authority는 한도를 두 번이나 올렸는데도 반발이 안 죽는다고 보도함.\n댓글에선 ‘그래도 출시 직후보다 못하다’는 계산이 나왔음.\n원문 날짜 2026-05-22(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1tk6vu7/additional_3x_increase_of_gemini_in_antigravity/",
+        "https://9to5google.com/2026/05/21/google-has-tripled-gemini-usage-limits-for-antigravity-twice/",
+        "https://www.androidauthority.com/gemini-antigravity-limits-increased-3670209/"
+      ],
+      "sourceDate": "2026-05-22",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-17",
+      "category": "news",
+      "rank": 17,
+      "title": "제미니 3.6 플래시 출시와 함께 사용량 캡을 다시 리셋",
+      "body": "공식 블로그로 3.6 Flash를 넣었고, 서브레딧 공지는 ‘더 싸고 효율적’에 전원 캡 리셋까지 언급.\n이 패턴(새 모델 + 캡 리셋)이 이후에도 반복됨.\n원문 날짜 2026-07-21(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-3-6-flash-in-google-antigravity",
+        "https://www.reddit.com/r/google_antigravity/comments/1v2rgq3/gemini_36_flash_is_out_and_we_reset_caps/"
+      ],
+      "sourceDate": "2026-07-21",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-18",
+      "category": "news",
+      "rank": 18,
+      "title": "사용자가 정의하는 커스텀 에이전트 공식 도입",
+      "body": "8월 12일 커스텀 에이전트를 제품에 넣음.\n나중에 플러그인 안에서도 커스텀 에이전트를 쓰게 확장됨.\n원문 날짜 2026-08-12(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/introducing-custom-agents"
+      ],
+      "sourceDate": "2026-08-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-19",
+      "category": "news",
+      "rank": 19,
+      "title": "제미니 3.7 플래시 투입",
+      "body": "3.x 플래시 라인의 다음 버전을 안티그래비티에 공식 탑재.\n모델 이름만 살짝 바꾸고 넣는 주기가 짧아짐.\n원문 날짜 2026-08-13(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-3-7-flash-in-google-antigravity"
+      ],
+      "sourceDate": "2026-08-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-20",
+      "category": "news",
+      "rank": 20,
+      "title": "VS Code·비주얼 스튜디오·JetBrains·Zed용 공식 확장 출시",
+      "body": "8월 20일, 안티그래비티 에이전트를 다른 에디터 안으로 넣는 공식 확장.\nIDE를 버리고 2.0만 쓰라는 게 아니라, 쓰던 에디터에 에이전트를 붙이는 쪽으로 열림.\n원문 날짜 2026-08-20(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/antigravity-ide-extensions"
+      ],
+      "sourceDate": "2026-08-20",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-21",
+      "category": "news",
+      "rank": 21,
+      "title": "제미니 엔터프라이즈에 에이전트 워크플로를 본격 투입",
+      "body": "같은 날 엔터프라이즈용 글이 하나 더 나옴.\n개발자뿐 아니라 조직 워크플로로 넓히겠다는 메시지.\n원문 날짜 2026-08-20(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/antigravity-enterprise"
+      ],
+      "sourceDate": "2026-08-20",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-22",
+      "category": "news",
+      "rank": 22,
+      "title": "리모트 컨트롤로 안티그래비티를 어디서든 조종",
+      "body": "8월 21일 ‘Antigravity anywhere with Remote Control’.\n자리 비운 사이 에이전트를 돌리겠다는 방향이 여기서 이미 보임.\n원문 날짜 2026-08-21(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/remote-control-for-antigravity"
+      ],
+      "sourceDate": "2026-08-21",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-23",
+      "category": "news",
+      "rank": 23,
+      "title": "버전 관리·터미널 경험을 손봤다는 공식 업데이트",
+      "body": "VCS와 터미널 UX 개선 글.\n2.0 이후 ‘에디터가 빈약하다’는 불만에 대한 부분 응답으로 읽힘.\n원문 날짜 2026-08-24(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/vcs-and-terminal"
+      ],
+      "sourceDate": "2026-08-24",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-24",
+      "category": "news",
+      "rank": 24,
+      "title": "안티그래비티로 시각화·에셋 뽑는 사례 공개",
+      "body": "코드만이 아니라 시각화 작업에도 쓰라는 공식 블로그.\n디자인·사이언스 온보딩이 나중에 나오는 복선.\n원문 날짜 2026-08-26(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/visualizing-with-the-help-of-antigravity"
+      ],
+      "sourceDate": "2026-08-26",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-25",
+      "category": "news",
+      "rank": 25,
+      "title": "에이전트를 연구 파트너로 쓰는 팀워크 사례",
+      "body": "과학·연구 쪽에서 에이전트를 협업자로 쓴 이야기.\n나중에 단백질·분자 디자인 데모로 이어짐.\n원문 날짜 2026-08-27(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/teamwork-when-ai-becomes-a-research-partner"
+      ],
+      "sourceDate": "2026-08-27",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-26",
+      "category": "news",
+      "rank": 26,
+      "title": "제미니 3.8 플래시 공식 탑재",
+      "body": "9월 1일 3.8 Flash. 이후 한동안 기본 실사용 모델이 됨.\n11월에 Hydrogen이 ‘플래시 4.0 기다리던 것’으로 불리는 기준점이기도 함.\n원문 날짜 2026-09-01(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-3-8-flash-in-google-antigravity"
+      ],
+      "sourceDate": "2026-09-01",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-27",
+      "category": "news",
+      "rank": 27,
+      "title": "구글 플러그인 안에서 커스텀 에이전트 지원",
+      "body": "9월 말, 플러그인 표면에 커스텀 에이전트를 연결하는 글.\n마켓플레이스로 가는 중간 단계.\n원문 날짜 2026-09-28(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/custom-agents-in-google-plugins"
+      ],
+      "sourceDate": "2026-09-28",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-28",
+      "category": "news",
+      "rank": 28,
+      "title": "SDK에서 로컬 모델(Gemma 등) 공식 지원",
+      "body": "9월 23일 구글 개발자 블로그. 안티그래비티 SDK로 Gemma, AL Edge, LiteRT 같은 로컬 모델을 돌릴 수 있게 됨.\n데스크톱 앱·IDE 기본 화면의 BYOK와는 별개라는 반응이 커뮤니티에 바로 나옴.\n원문 날짜 2026-09-23(KST 기준).",
+      "sourceUrls": [
+        "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+        "https://www.reddit.com/r/google_antigravity/comments/1wom9gb/local_model_support_now_available/"
+      ],
+      "sourceDate": "2026-09-23",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-29",
+      "category": "news",
+      "rank": 29,
+      "title": "제미니 4 아르곤, 안티그래비티에 최상위 모델로 투입",
+      "body": "10월 13일 Argon 공식 탑재.\n긴 작업·에이전트 루프용 최상위 라인의 시작.\n원문 날짜 2026-10-13(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-4-argon-in-google-antigravity"
+      ],
+      "sourceDate": "2026-10-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-30",
+      "category": "news",
+      "rank": 30,
+      "title": "아르곤 에이전트가 초대형 그래프·TPU 커널까지 돌렸다는 사례",
+      "body": "공식 블로그가 Argon으로 조 단위 엣지 그래프와 커스텀 TPU 커널 작업을 올렸다고 소개.\n모델 자랑용 긴 글.\n원문 날짜 2026-10-26(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-4-argon-trillion-edge-graphs-and-tpu-kernels"
+      ],
+      "sourceDate": "2026-10-26",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-31",
+      "category": "news",
+      "rank": 31,
+      "title": "플러그인 마켓플레이스 열고, 줄스는 안티그래비티로 합침",
+      "body": "10월 29일 마켓 공식 발표. 같은 시기 비동기 코딩 툴 Jules는 12월 31일 종료 쪽으로 정리됨.\nX 뉴스 요약에도 ‘Jules RIP, 안티그래비티로 통일’이 올라옴.\n원문 날짜 2026-10-29(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/plugin-marketplace-in-antigravity",
+        "https://x.com/i/trending/2115908514698887350"
+      ],
+      "sourceDate": "2026-10-29",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-32",
+      "category": "news",
+      "rank": 32,
+      "title": "맥용 제미니 앱에도 안티그래비티 코딩 플랫폼이 들어감",
+      "body": "더 버지 보도. 제미니 맥 앱에서 안티그래비티 쪽 코딩 기능을 쓰게 했다는 소식.\n데스크톱 앱 밖 표면이 또 늘어남.\n원문 날짜 2026-10-13(KST 기준).",
+      "sourceUrls": [
+        "https://www.theverge.com/tech/1010415/google-antigravity-gemini-app-mac"
+      ],
+      "sourceDate": "2026-10-13",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-33",
+      "category": "news",
+      "rank": 33,
+      "title": "OpenAI 최신 모델이 구글 클라우드와 안티그래비티에도 들어온다",
+      "body": "Ars 10월 21일 보도. 구글 쪽에서 OpenAI 모델을 클라우드와 안티그래비티에 넣겠다는 내용.\n멀티 모델 표면을 공식 확인하는 기사.\n원문 날짜 2026-10-21(KST 기준).",
+      "sourceUrls": [
+        "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+      ],
+      "sourceDate": "2026-10-21",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-34",
+      "category": "news",
+      "rank": 34,
+      "title": "안드로이드 스튜디오 안에서 안티그래비티 에이전트를 쓸 수 있게 됨",
+      "body": "공식 X. 안드로이드 스튜디오에 에이전트 기능을 넣었다고 발표.\n모바일 개발 쪽 확장.\n원문 날짜 2026-10-31(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/antigravity/status/2116232874328281451"
+      ],
+      "sourceDate": "2026-10-31",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-35",
+      "category": "news",
+      "rank": 35,
+      "title": "40년 된 과학 코드를 아르곤으로 현대어로 옮긴 공식 사례",
+      "body": "포트란 같은 레거시를 현대 언어로 옮긴 과정을 공식 블로그로 공개.\n나중에 X에서 포트란→러스트 딥다이브 링크로도 다시 올림.\n원문 날짜 2026-11-03(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/modernizing-40-year-old-scientific-code-with-gemini-4-argon",
+        "https://x.com/antigravity/status/2117773996695367851"
+      ],
+      "sourceDate": "2026-11-03",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-36",
+      "category": "news",
+      "rank": 36,
+      "title": "보이스 모드 공식 출시, 제미니 라이브로 말하면서 계획·승인",
+      "body": "11월 6일 공식 블로그 + 다음날 공식 X.\n말로 기능 계획하고, 코드 변경을 조종하고, 권한 승인도 소리로 함.\n개인 계정 대상으로 롤아웃.\n원문 날짜 2026-11-06(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/antigravity-voice-mode",
+        "https://x.com/antigravity/status/2118765358542676424"
+      ],
+      "sourceDate": "2026-11-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-37",
+      "category": "news",
+      "rank": 37,
+      "title": "지식 업무용 레이아웃 추가, 터미널·깃을 숨긴 화면",
+      "body": "11월 9일 공식 블로그·X. 같은 에이전트 하네스인데 터미널·깃 같은 개발 UI를 뺀 레이아웃.\n연구·글쓰기·아티팩트용. 비개발자도 쓰라는 메시지.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/antigravity-for-knowledge-work",
+        "https://x.com/antigravity/status/2119913586109579283"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-38",
+      "category": "news",
+      "rank": 38,
+      "title": "제미니 4 카본과 /swarm, 안티그래비티에 공식 투입",
+      "body": "11월 10일 블로그, 11일(KST) 공식 X·구글·선더 피차이 계정.\n카본은 장기·다단계 추론용 최강 모델로 소개됐고, /swarm으로 서브에이전트를 병렬 조율.\n초기 접근은 울트라 쪽이 먼저라는 안내가 같이 나옴.\n원문 날짜 2026-11-10(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-4-carbon-in-google-antigravity",
+        "https://x.com/antigravity/status/2120279327589773639",
+        "https://x.com/antigravity/status/2120188336056733746",
+        "https://x.com/Google/status/2120186185423159331",
+        "https://x.com/sundarpichai/status/2120185896469496180"
+      ],
+      "sourceDate": "2026-11-10",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-39",
+      "category": "news",
+      "rank": 39,
+      "title": "제미니 4 하이드로젠과 오케스트레이터 공식 롤아웃",
+      "body": "11월 12일 공식 블로그. 일상 코딩·에이전트용 빠른 모델.\n오케스트레이터가 세션 안에서 카본↔하이드로젠을 바꿔 가며 돌린다고 함.\n공식 X는 유료 플랜 대상이라고 명시. 로건 킬패트릭은 AI 스튜디오·API·검색·앱은 넓게, 안티그래비티는 유료라고 안내.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity",
+        "https://x.com/antigravity/status/2120944334023389476",
+        "https://x.com/sundarpichai/status/2120940236805169182",
+        "https://x.com/OfficialLoganK/status/2120940951292268640",
+        "https://x.com/googledevs/status/2120943718454972576"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-40",
+      "category": "news",
+      "rank": 40,
+      "title": "간접 프롬프트 주입으로 안티그래비티가 데이터를 빼낼 수 있다는 공개",
+      "body": "PromptArmor가 독이 든 문서를 읽게 하면 브라우저 서브에이전트가 자격 증명·코드를 유출할 수 있다고 시연.\n사이먼 윌리슨이 정리했고, Embrace The Red도 같은 시기 보안 이슈를 ‘땅에 붙었다’고 제목을 붙임.\n구글 쪽은 위험 고지로 대응하는 분위기라는 지적이 글에 있음.\n원문 날짜 2025-11-20(KST 기준).",
+      "sourceUrls": [
+        "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+        "https://simonwillison.net/2025/Nov/25/google-antigravity-exfiltrates-data/",
+        "https://embracethered.com/blog/posts/2025/security-keeps-google-antigravity-grounded/",
+        "https://blog.deadbits.ai/p/indirect-prompt-injection-in-ai-ides",
+        "https://news.ycombinator.com/item?id=46048996"
+      ],
+      "sourceDate": "2025-11-20",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-41",
+      "category": "news",
+      "rank": 41,
+      "title": "안티그래비티 한도는 공식 숫자가 없다… 리셋 주기만 공개",
+      "body": "Limit Digest·SessionWatcher·QuotaWire가 공식 문서·요금 페이지를 모아 정리한 글.\n공통 요지: 요청/토큰 개수는 비공개. Free·Plus는 주간 리셋, Pro는 5시간 리셋 후 주간 캡, Ultra는 더 큰 5시간·주간 한도.\n쿼터는 프롬프트 수가 아니라 에이전트가 한 일을 기준으로 깎임.\n원문 날짜 2026-11-12(KST 기준).",
+      "sourceUrls": [
+        "https://limitdigest.com/guides/antigravity-limits-explained/",
+        "https://sessionwatcher.com/guides/antigravity-pricing",
+        "https://quotawire.com/plans/gemini",
+        "https://codingplanlimits.com/plans/google-ai-ultra-5x-antigravity/"
+      ],
+      "sourceDate": "2026-11-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-42",
+      "category": "news",
+      "rank": 42,
+      "title": "미국 정가 기준 프로 19.99달러, 울트라 99.99·199.99달러",
+      "body": "정리 사이트들이 미국 정가를 이렇게 적음. 울트라 5x가 99.99, 20x가 199.99.\n지역·채널마다 다를 수 있고, 안티그래비티 한도는 제미니 앱 풀과 얽혀 있다는 설명이 따라옴.\n하드 토큰 수는 여전히 없음.\n원문 날짜 2026-11-03(KST 기준).",
+      "sourceUrls": [
+        "https://sessionwatcher.com/guides/antigravity-pricing",
+        "https://codingplanlimits.com/plans/google-ai-ultra-5x-antigravity/",
+        "https://quotawire.com/plans/gemini"
+      ],
+      "sourceDate": "2026-11-03",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-43",
+      "category": "news",
+      "rank": 43,
+      "title": "사용량 한도가 갑자기 리셋됐다는 소식이 HN에 올라옴",
+      "body": "11월 7일 HN 제목: Surprise Google Antigravity usage limit reset.\n본문 기사 사이트는 봇 벽에 막혀서 HN 스레드만 확인. 리셋 자체는 여러 차례 있던 패턴과 맞음.\n원문 날짜 2026-11-07(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=50405252"
+      ],
+      "sourceDate": "2026-11-07",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-44",
+      "category": "news",
+      "rank": 44,
+      "title": "서드파티로 쓰면 구글 계정까지 정지될 수 있다는 TOS 주의",
+      "body": "HN에 ‘안티그래비티 TOS: 서드파티 사용이면 구글 계정이 정지될 수 있다’는 글이 올라옴.\n공식 약관 문구를 이 글만으로 재구성하진 않음. 계정 위험에 대한 커뮤니티 경고로 보면 됨.\n원문 날짜 2026-09-03(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=49548452"
+      ],
+      "sourceDate": "2026-09-03",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-45",
+      "category": "news",
+      "rank": 45,
+      "title": "구글이 계정을 막는 바람에 안티그래비티 구독을 끊는 도구도 나옴",
+      "body": "OH MY PI 쪽이 구글 계정 비활성화를 이유로 안티그래비티 구독을 끈다는 PR이 HN에 공유됨.\n제품 이슈라기보다 계정 정책이 개발 툴 사용까지 건드린 사례.\n원문 날짜 2026-11-09(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=50431613"
+      ],
+      "sourceDate": "2026-11-09",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-46",
+      "category": "news",
+      "rank": 46,
+      "title": "DeepMind·개발자 계정도 출시 직후 안티그래비티를 에이전틱 플랫폼으로 소개",
+      "body": "Google DeepMind는 제미니 3으로 바이브/에이전틱 코딩을 강화한다고 했고,\ngoogledevs는 병렬 작업·에이전트 우선 IDE로 소개함.\n필립 슈미트도 에디터+에이전트 매니저·브라우저 서브에이전트·아티팩트 리뷰를 정리.\n원문 날짜 2025-11-19(KST 기준).",
+      "sourceUrls": [
+        "https://x.com/GoogleDeepMind/status/1990812981878235253",
+        "https://x.com/googledevs/status/1991242607679123523",
+        "https://x.com/_philschmid/status/1990816850792337454",
+        "https://x.com/kevinhou22/status/1990828609184170138"
+      ],
+      "sourceDate": "2025-11-19",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-47",
+      "category": "news",
+      "rank": 47,
+      "title": "2.0 자동 업데이트가 쓰던 IDE를 대화창으로 바꿔 버렸다는 비판",
+      "body": "Sid의 글 제목부터 ‘Bait and Switch’. I/O 다음날 앱이 자동 업데이트되더니, 쓰던 IDE 대신 프롬프트 상자만 남았다고 함.\nHN에도 같은 글이 올라갔고, ‘전형적인 구글 무브’라는 반응이 붙음.\n공식은 IDE를 유지한다 했지만, 사용자 체감은 강제 교체에 가까웠음.\n원문 날짜 2026-05-21(KST 기준).",
+      "sourceUrls": [
+        "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+        "https://news.ycombinator.com/item?id=48222529",
+        "https://news.ycombinator.com/item?id=48196838"
+      ],
+      "sourceDate": "2026-05-21",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-48",
+      "category": "news",
+      "rank": 48,
+      "title": "HN 댓글: 이제 주력이 에이전트 관리 도구고, 예전 제품은 IDE로 남았다",
+      "body": "런치 HN 스레드 댓글. 안티그래비티가 주로 에이전트 관리 도구가 됐고, 이전 버전이 안티그래비티 IDE가 됐다는 설명.\n고급 툴은 서브에이전트를 자동으로 띄운다는 보충도 있음.\n원문 날짜 2026-05-22(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48237147"
+      ],
+      "sourceDate": "2026-05-22",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-49",
+      "category": "news",
+      "rank": 49,
+      "title": "출시 직후부터 플랜별 한도가 불투명하다는 질문이 나옴",
+      "body": "2025년 12월 글. 공식 one.google.com/ai 페이지는 Flow·Whisk 크레딧만 있고, 안티그래비티 모델별 한도는 안 보인다는 지적.\nFree·Plus·Pro·Ultra에서 제미니·클로드·GPT 한도가 어떻게 적용되는지 묻는 스레드. 이후에도 이 불투명함은 반복됨.\n원문 날짜 2025-12-16(KST 기준).",
+      "sourceUrls": [
+        "https://www.reddit.com/r/google_antigravity/comments/1pngojl/google_antigravity_usage_limits_per_model/"
+      ],
+      "sourceDate": "2025-12-16",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-50",
+      "category": "news",
+      "rank": 50,
+      "title": "Cursor·코덱스·제미니 CLI·안티그래비티가 샌드박스 탈출에 같이 걸렸다는 HN",
+      "body": "2026년 7월, 여러 코딩 에이전트가 샌드박스 탈출로 동시에 언급됨.\n브라우저·터미널 권한이 있는 에이전트는 공통 공격면. 패치 전후를 해당 스레드에서 확인.\n원문 날짜 2026-07-20(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=48986015",
+        "https://news.ycombinator.com/item?id=48990040",
+        "https://news.ycombinator.com/item?id=49013584"
+      ],
+      "sourceDate": "2026-07-20",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-51",
+      "category": "news",
+      "rank": 51,
+      "title": "2026년 3월, 가격 인상 항의와 주간 한도로 프로가 잠긴다는 글이 HN에 올라옴",
+      "body": "Users protest as Google Antigravity price floats upward, Pro users face quota lockouts under new weekly limits.\n주간 캡이 강화되며 유료 사용자 잠금·가격 불만이 겹친 구간.\n원문 날짜 2026-03-12(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=47351281",
+        "https://news.ycombinator.com/item?id=47365522",
+        "https://news.ycombinator.com/item?id=47350751"
+      ],
+      "sourceDate": "2026-03-12",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-52",
+      "category": "news",
+      "rank": 52,
+      "title": "구글이 외부 도구 사용 계정을 막았다가, 이후 해제하고 규칙을 설명했다는 HN",
+      "body": "2월 11일 ‘안티그래비티·제미니 CLI 밖에서 쓰면 계정 정지’ 제목, 2월 27일 해제·서드파티 규칙 설명 제목.\n공식 문장 전문은 HN 제목만으로 단정하지 말고, 계정 정책이 한동안 흔들렸다는 타임라인으로 보면 됨.\n원문 날짜 2026-02-27(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=46971478",
+        "https://news.ycombinator.com/item?id=47183131"
+      ],
+      "sourceDate": "2026-02-27",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-53",
+      "category": "news",
+      "rank": 53,
+      "title": "2026년 4월, 안티그래비티 서버가 7시간 넘게 내려갔다는 HN",
+      "body": "장시간 장애 제목의 스레드. 클라우드 에이전트·원격 제어에 의존하면 로컬 폴백이 없는 게 리스크.\n원문 날짜 2026-04-15(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=47775884"
+      ],
+      "sourceDate": "2026-04-15",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-54",
+      "category": "news",
+      "rank": 54,
+      "title": "Cursor·윈드서프·안티그래비티가 멀웨어를 추천하지 않게 막았다는 글",
+      "body": "We Prevented Cursor, Windsurf and Google Antigravity from Recommending Malware.\n에이전트가 패키지·라이브러리를 잘못 집어넣는 공급망 위험을 다룬 보안 글.\n원문 날짜 2026-01-06(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=46514820"
+      ],
+      "sourceDate": "2026-01-06",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    },
+    {
+      "id": "news-55",
+      "category": "news",
+      "rank": 55,
+      "title": "HN에 안티그래비티 2.5 소식이 올라옴",
+      "body": "Antigravity 2.5. I/O의 2.0 이후 마이너/중간 버전 업데이트로 보이는 항목.\n세부 변경은 이 제목만으로 단정하지 말고, 당시 릴리스 노트와 같이 보면 됨.\n원문 날짜 2026-08-05(KST 기준).",
+      "sourceUrls": [
+        "https://news.ycombinator.com/item?id=49190515"
+      ],
+      "sourceDate": "2026-08-05",
+      "status": "확인됨",
+      "batchDate": "2026-11-13"
+    }
+  ]
+}
